@@ -1,4 +1,4 @@
-# HỒ SƠ ỨNG VIÊN & MA TRẬN TIÊU CHÍ TUYỂN DỤNG (CANDIDATE PROFILE & SCORING RUBRIC)
+# HỒ SƠ ỨNG VIÊN & MA TRẬN TIÊU CHÍ TUYỂN DỤNG (CẬP NHẬT: FRESHER / JUNIOR)
 
 ---
 
@@ -6,55 +6,58 @@
 
 ### 1. Học vấn & Nền tảng chuyên môn
 - **Học vấn:** Cử nhân chuyên ngành **Bất động sản (Real Estate)** - Đại học Kinh tế Quốc dân (NEU).
-- **Chứng chỉ:** **TOEIC 855** (Điểm mạnh nổi trội về khả năng đọc hiểu, nghiên cứu tài liệu, viết email thương mại, xử lý văn bản tiếng Anh; kỹ năng nghe/nói đang tiếp tục trau dồi).
-- **Kinh nghiệm thực tế:** Đã có trải nghiệm trong lĩnh vực Sales BĐS:
-  - Nghiên cứu quy hoạch, dự án, hạ tầng, chính sách thị trường.
-  - Viết bài quảng cáo bán hàng, xây dựng kịch bản video/livestream, truyền thông Facebook.
-  - Tư vấn và trao đổi 1-1, tìm hiểu nhu cầu khách hàng, xử lý tình huống từ chối.
+- **Chứng chỉ:** **TOEIC 855** (Thế mạnh vượt trội về đọc hiểu tài liệu, viết email thương mại, xử lý văn bản tiếng Anh; kỹ năng nghe/nói đang hoàn thiện).
+- **Kinh nghiệm thực tế:** **Khoảng 1 năm kinh nghiệm thực tập tại 2 công ty (Cấp độ Fresher / Junior)**:
+  - Từng làm Sales/Tư vấn BĐS: tiếp cận dự án, tư vấn 1-1, tìm hiểu nhu cầu, viết bài Facebook/kịch bản livestream.
+  - **Điểm lưu ý cốt lõi:** **Chưa tự tin ở các công việc đòi hỏi kinh nghiệm chuyên môn sâu hoặc vị trí yêu cầu bề dày kinh nghiệm**.
+  - **Thế mạnh bù đắp:** Học nhanh, tư duy logic của sinh viên NEU, khả năng nghiên cứu & tổng hợp thông tin tốt, tiếng Anh tốt, thái độ cầu tiến và thích công việc có quy trình/onboarding bài bản.
 
-### 2. Điểm mạnh cốt lõi (Core Strengths)
-- **Kỹ năng Nghiên cứu & Phân tích (Research & Synthesis):** Khả năng tìm kiếm, tổng hợp dữ liệu, so sánh sản phẩm/thị trường nhanh nhạy và có tư duy logic tốt.
-- **Kỹ năng Viết & Soạn thảo (Content & Written Communication):** Nhạy cảm với câu từ, viết mạch lạc, tinh chỉnh văn phong phù hợp với đối tượng khách hàng (viết tốt hơn nói).
-- **Kỹ năng Điều phối & Vận hành (Coordination & Operations):** Thích các công việc có tính tổ chức, quy trình rõ ràng, kết hợp giữa xử lý độc lập và tương tác nội bộ/khách hàng.
-- **Tư duy Kinh doanh giải pháp (Consultative Mindset):** Vẫn yêu thích hoạt động kinh doanh nhưng theo hướng **tư vấn giải pháp / xây dựng quan hệ dài hạn (B2B / Account)** thay vì chèo kéo bán hàng ngắn hạn.
+### 2. Định vị cấp độ (Seniority Level)
+- **Cấp độ phù hợp:** **Fresher, Junior, Assistant (Trợ lý), Coordinator (Điều phối), Trainee, Executive mức độ 0 - 1 năm kinh nghiệm**.
+- **Môi trường lý tưởng:** Có quy trình onboarding, có Leader/Mentor hướng dẫn công việc, không "thả nổi" nhân sự tự bơi.
 
-### 3. Vùng công việc tránh xa (Red Flags / Deal Breakers)
+### 3. Vùng công việc loại bỏ ngay (Red Flags / Strict Filters)
+- ❌ **Vị trí Quản lý / Senior:** Trưởng phòng, Phó phòng, Trưởng nhóm (Team Lead), Quản lý kinh doanh, Giám đốc.
+- ❌ **Yêu cầu kinh nghiệm chuyên môn sâu:** Yêu cầu từ 2–3 năm kinh nghiệm chuyên sâu trở lên trong một nghiệp vụ kỹ thuật/hẹp (ví dụ: ERP Consultant, Senior Account, Senior Marketing...).
 - ❌ **Telesales thuần túy:** Gọi 100–200 cuộc data lạnh mỗi ngày, ép KPI cuộc gọi/booking.
-- ❌ **Thu nhập 100% hoa hồng:** Lương cứng dưới 5M hoặc chỉ sống bằng hoa hồng bán lẻ BĐS.
-- ❌ **Hành chính/Nhập liệu thuần túy:** Chỉ photo, scan, nhập liệu đơn điệu không có tư duy hay cơ hội phát triển.
-- ❌ **Data Analyst quá nặng số liệu:** Vị trí yêu cầu thống kê chuyên sâu, code data, modeling Excel dày đặc.
-- ❌ **Vị trí đòi hỏi thuyết trình/gặp khách liên tục cả ngày** với tần suất áp lực cao.
+- ❌ **Thu nhập 100% hoa hồng:** Lương cứng dưới 5M hoặc chỉ sống bằng hoa hồng.
+- ❌ **Data Analyst nặng / Kế toán / Kỹ sư kỹ thuật**.
 
 ---
 
-## II. Định Hướng Nghề Nghiệp Mục Tiêu
+## II. Định Hướng Nghề Nghiệp Mục Tiêu (Dành cho Fresher / Junior)
 
-Thứ tự ưu tiên tính chất công việc:
-**Điều phối / Vận hành (Coordination) > Nghiên cứu / Phát triển (Research/Development) > Quản lý quan hệ / Tư vấn giải pháp (B2B Account/BD) > Customer Success > Marketing / Content**
+### 1. Nhóm Ưu Tiên Số 1 (Best Match - Tỷ lệ đỗ và phát triển cao nhất)
+1. **Sales Coordinator / Sales Admin Junior / Trợ lý Kinh doanh:**
+   - Hỗ trợ làm hợp đồng, báo giá, theo dõi tiến độ đơn hàng/dự án, phối hợp các phòng ban.
+   - Thường tuyển dụng các bạn trẻ năng động, cẩn thận, biết tiếng Anh và tin học văn phòng; rất phù hợp với hồ sơ NEU.
+2. **Project Assistant / Project Coordinator Junior (Mảng BĐS / Xây dựng / Dịch vụ):**
+   - Hỗ trợ quản lý dự án, chuẩn bị hồ sơ tài liệu, tổng hợp báo cáo tiến độ, làm việc với các bên liên quan.
+   - Tận dụng trực tiếp bằng BĐS NEU mà không bị áp lực sales.
+3. **Junior B2B Account / Customer Success (Chấp nhận đào tạo / 0-1 năm exp):**
+   - Hỗ trợ chăm sóc khách hàng doanh nghiệp, tiếp nhận yêu cầu, phối hợp triển khai.
+   - Ưu tiên các công ty có chương trình đào tạo bài bản cho Fresher.
+4. **Market Research Junior / Trợ lý Nghiên cứu Thị trường BĐS:**
+   - Tìm kiếm thông tin thị trường, so sánh giá cả, lập báo cáo phân tích dự án.
 
-### 1. Nhóm Ưu Tiên Cao (Tier 1 - Best Match)
-1. **Sales Coordinator / Sales Support / Sales Operations:** Cầu nối giữa kinh doanh, khách hàng và các phòng ban nội bộ; hỗ trợ hợp đồng, báo giá, tiến độ bán hàng.
-2. **Account Executive B2B / Business Development (Consultative):** Kinh doanh giải pháp doanh nghiệp (SaaS, dịch vụ B2B, giáo dục, bất động sản doanh nghiệp, nhân sự).
-3. **Project Coordinator / Project Assistant (Đặc biệt mảng BĐS/Xây dựng/Đầu tư):** Hỗ trợ theo dõi tiến độ dự án, phối hợp các bên, chuẩn bị hồ sơ/báo cáo.
-4. **Customer Success Executive / Client Specialist:** Chăm sóc, hỗ trợ và tư vấn giải pháp cho khách hàng doanh nghiệp sau bán hàng.
-
-### 2. Nhóm Đáng Thử & Tiềm Năng (Tier 2 - Good Potential)
-1. **Real Estate Research / Market Research Executive:** Nghiên cứu thị trường BĐS/kinh tế, lập báo cáo phân tích sản phẩm.
-2. **Project Development Assistant / Investment Assistant:** Hỗ trợ pháp lý, nghiên cứu dự án đầu tư BĐS.
-3. **Marketing Coordinator / Content Specialist:** Lập kế hoạch nội dung, điều phối chiến dịch marketing (thiên về quy trình/kế hoạch hơn là chạy ads kỹ thuật).
+### 2. Nhóm Ưu Tiên Số 2 (Good Potential)
+1. **Marketing Assistant / Marketing Coordinator / Content Junior:**
+   - Lên kế hoạch nội dung bài viết, quản trị fanpage/kênh truyền thông, điều phối công việc marketing.
+2. **Management Trainee / Giám sát kinh doanh tập sự:**
+   - Các chương trình tuyển dụng của tập đoàn dành cho sinh viên mới tốt nghiệp.
 
 ---
 
-## III. Thang Đo Đánh Giá Job (Scoring Rubric - Thang Điểm 100)
+## III. Thang Đo Đánh Giá Cập Nhật (Scoring Rubric - Thang Điểm 100)
 
 | Tiêu chí | Trọng số | Chi tiết đánh giá |
 | :--- | :---: | :--- |
-| **1. Tính chất Vị trí (Role Match)** | **40 điểm** | • **40đ:** Sales Coordinator, Project Coordinator, B2B Account Executive, Customer Success, Research/Project Development.<br>• **25-30đ:** Marketing Coordinator, Content Specialist, General B2B Sales.<br>• **10-15đ:** B2C Sales thông thường có lương cứng.<br>• **0đ (Loại):** Telesales, Kế toán, Lập trình viên, Công nhân, Data Analyst nặng. |
-| **2. Tận dụng Lợi thế Hồ sơ (Leverage Profile)** | **30 điểm** | • **+12đ:** Ngành Bất động sản / Xây dựng / Đầu tư (tận dụng bằng NEU).<br>• **+10đ:** Yêu cầu / ưu tiên tiếng Anh (TOEIC 855 là lợi thế lớn).<br>• **+8đ:** Đòi hỏi kỹ năng viết, phân tích, điều phối, nghiên cứu. |
-| **3. Mức Lương & Đãi ngộ (Compensation)** | **15 điểm** | • **15đ:** Lương cứng từ 8 - 15 triệu (hoặc thỏa thuận theo năng lực có base rõ ràng).<br>• **10đ:** Lương 7 - 9 triệu nhưng chế độ phụ cấp và thưởng rõ ràng.<br>• **0-5đ:** Lương dưới 7 triệu hoặc không ghi rõ lương cứng / chỉ hoa hồng. |
-| **4. Cơ hội Phát triển & Môi trường (Growth & Culture)** | **15 điểm** | • **15đ:** Công ty có quy trình onboarding, có lộ trình phát triển 2-3 năm lên Specialist/Leader.<br>• **10đ:** Doanh nghiệp vừa và lớn, mô tả JD minh bạch, chế độ BHXH đầy đủ.<br>• **0-5đ:** Tin tuyển dụng sơ sài, dấu hiệu bẫy tuyển dụng đại trà. |
+| **1. Độ phù hợp Cấp độ (Seniority Fit)** | **30 điểm** | • **30đ:** Tuyển Fresher, Junior, 0 - 1 năm kinh nghiệm, "chấp nhận sinh viên mới ra trường", "được đào tạo từ đầu".<br>• **15đ:** Yêu cầu 1 năm kinh nghiệm tổng quát.<br>• **0đ (Loại):** Yêu cầu từ 2 năm kinh nghiệm chuyên sâu trở lên, Trưởng phòng/Trưởng nhóm/Senior/Lead. |
+| **2. Tính chất Vị trí (Role Match)** | **30 điểm** | • **30đ:** Sales Coordinator, Project Coordinator/Assistant, Customer Success, Research BĐS, B2B Account Junior.<br>• **20đ:** Marketing Coordinator, Content Junior.<br>• **0đ (Loại):** Telesales gọi data lạnh, Dev, Kế toán, Công nhân, Data Analyst nặng. |
+| **3. Lợi thế Profile (Leverage Strengths)** | **25 điểm** | • **+10đ:** Tận dụng được tiếng Anh (TOEIC 855 là lợi thế lớn).<br>• **+8đ:** Ngành BĐS / Không gian / Dịch vụ B2B (tận dụng bằng NEU).<br>• **+7đ:** Đòi hỏi kỹ năng viết, điều phối, tổng hợp thông tin. |
+| **4. Lương cứng & Đào tạo (Compensation & Training)** | **15 điểm** | • **+8đ:** Có chính sách đào tạo, onboarding, mentor hướng dẫn rõ ràng.<br>• **+7đ:** Lương cứng từ 7 - 12 triệu (phù hợp với Fresher/Junior). |
 
 ### Phân Loại Kết Quả:
-- 🌟 **Tier A (>= 75 điểm):** **Rất phù hợp (Strong Recommendation)** — Ưu tiên nộp ngay, tỉ lệ khớp cao.
-- 🎯 **Tier B (60 - 74 điểm):** **Đáng cân nhắc (Potential Match)** — Phù hợp một số tiêu chí quan trọng, có thể nộp mở rộng cơ hội.
-- ⛔ **Tier C (< 60 điểm):** **Loại bỏ (Reject)** — Không phù hợp hoặc có red flags.
+- 🌟 **Tier A (>= 70 điểm):** **Rất phù hợp cho Junior/Fresher** — Yêu cầu 0-1 năm kinh nghiệm, có đào tạo, môi trường tốt, đòn bẩy tiếng Anh/BĐS cao.
+- 🎯 **Tier B (55 - 69 điểm):** **Đáng cân nhắc** — Phù hợp một số tiêu chí nhưng có thể yêu cầu nỗ lực học hỏi thêm hoặc cạnh tranh hơn.
+- ⛔ **Tier C (< 55 điểm):** **Loại bỏ** — Cần kinh nghiệm chuyên môn sâu / Quản lý / Telesales / Không phù hợp.

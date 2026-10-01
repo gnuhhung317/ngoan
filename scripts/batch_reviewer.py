@@ -2,191 +2,215 @@ import json
 import re
 from pathlib import Path
 
-def score_job(job):
+def score_job_junior(job):
     """
-    Evaluates a single job dictionary based on the candidate profile & rubric in candidate_profile.md.
-    Returns:
-      score: float (0 - 100)
-      tier: 'Tier A' | 'Tier B' | 'Tier C'
-      role_category: str
-      pros: list of str
-      cons: list of str
-      cv_highlight: str
-      flags: list of str
+    Evaluates a single job dictionary based on the updated candidate profile:
+    - Junior / Fresher level (~1 year internship across 2 companies)
+    - Low confidence in specialized deep expertise
+    - Seeking entry/junior roles with onboarding, training, coordination, B2B account, project assistant, research
+    - Strong English (TOEIC 855), NEU Real Estate major, good writing/research.
     """
     title = job.get("title", "").lower()
     desc = job.get("job_description", "").lower()
     req = job.get("job_requirement", "").lower()
     benefit = job.get("job_benefit", "").lower()
     salary = job.get("salary", "").lower()
-    full_text = f"{title}\n{desc}\n{req}\n{benefit}"
+    exp = job.get("experience", "").lower()
+    full_text = f"{title}\n{desc}\n{req}\n{benefit}\n{exp}"
 
     pros = []
     cons = []
     flags = []
-    
-    # -------------------------------------------------------------
-    # 1. HARD DISQUALIFIERS / RED FLAGS (Tier C immediately)
-    # -------------------------------------------------------------
-    # Dev / Tech engineering
-    if re.search(r'\b(lập trình|developer|frontend|backend|fullstack|devops|tester|qa/qc|it helpdesk|kỹ sư cơ điện|kỹ sư xây dựng|kỹ sư cầu đường|chỉ huy trưởng|giám sát thi công|bác sĩ|dược sĩ|y tá|lái xe|bảo vệ|đầu bếp|phục vụ|thu ngân|công nhân)\b', title):
-        return 0, 'Tier C', 'Không liên quan (Kỹ thuật/Y tế/Lao động phổ thông)', [], ['Vị trí chuyên môn kỹ thuật hoặc lao động khác ngành'], '', ['Lệch ngành hoàn toàn']
 
-    # Heavy Finance / Accounting
-    if re.search(r'\b(kế toán tổng hợp|kế toán trưởng|kiểm toán|thủ quỹ)\b', title):
+    # -------------------------------------------------------------
+    # 1. HARD DISQUALIFIERS & SENIORITY / ROLE MISMATCH (Tier C)
+    # -------------------------------------------------------------
+    # 1.1 Management / Leadership / Senior positions
+    if re.search(r'\b(trưởng phòng|phó phòng|trưởng nhóm|team lead|lead|manager|giám đốc|director|chủ trì|chỉ huy trưởng|senior|chuyên gia)\b', title):
+        return 0, 'Tier C', 'Vị trí Quản lý / Senior', [], ['Vị trí yêu cầu kinh nghiệm quản lý hoặc cấp bậc Senior - Không phù hợp với cấp độ 1 năm thực tập'], '', ['Quản lý / Senior']
+
+    # 1.2 Non-relevant industries (Tech dev, Construction site eng, Pure medical, Factory labor)
+    if re.search(r'\b(lập trình|developer|frontend|backend|fullstack|devops|tester|qa/qc|it helpdesk|kỹ sư cơ điện|kỹ sư xây dựng|kỹ sư kết cấu|bác sĩ|dược sĩ|y tá|lái xe|bảo vệ|đầu bếp|phục vụ|thu ngân|công nhân|thợ hàn|thợ may)\b', title):
+        return 0, 'Tier C', 'Lệch ngành kỹ thuật / Lao động', [], ['Lệch ngành chuyên môn kỹ thuật hoặc lao động phổ thông'], '', ['Lệch ngành hoàn toàn']
+
+    # 1.3 Deep Finance / Pure Accounting
+    if re.search(r'\b(kế toán tổng hợp|kế toán trưởng|kiểm toán viên|thủ quỹ)\b', title):
         return 0, 'Tier C', 'Kế toán / Kiểm toán', [], ['Vị trí kế toán chuyên môn sâu'], '', ['Lệch chuyên môn']
 
-    # Pure Telesales / Cold call spam
+    # 1.4 Deep Technical Consulting requiring years of experience (e.g. ERP consultant)
+    if re.search(r'\b(erp implementation|chuyên viên erp|sap|oracle|triển khai phần mềm chuyên sâu)\b', title + req):
+        return 0, 'Tier C', 'Chuyên môn kỹ thuật sâu', [], ['Đòi hỏi kinh nghiệm triển khai kỹ thuật chuyên môn sâu (ERP/SAP)'], '', ['Chuyên môn quá sâu']
+
+    # 1.5 Pure Telesales / Cold Calling Spam
     if re.search(r'\b(telesale|telesales|tele sale|tele marketing|gọi data|cuộc gọi/ngày|telesale tài chính|telesale chứng khoán)\b', title) or \
-       re.search(r'\b(100-200 cuộc|150 cuộc|gọi điện theo danh sách data có sẵn)\b', desc + req):
+       re.search(r'\b(100-200 cuộc|150 cuộc|gọi điện theo danh sách data có sẵn|gọi điện liên tục|spam call)\b', desc + req):
         flags.append("Telesales gọi data liên tục")
         cons.append("Yêu cầu gọi điện thoại số lượng lớn mỗi ngày - Trái định hướng")
 
-    # 100% Commission / No base salary
+    # 1.6 100% Commission / No base salary
     if re.search(r'\b(không lương cứng|chỉ hưởng hoa hồng|thu nhập không giới hạn|hưởng 100% hoa hồng)\b', full_text) or \
        (re.search(r'\b(hoa hồng cao|hoa hồng lên đến)\b', full_text) and not re.search(r'\b(lương cứng|lương cơ bản|lương net|lương gross)\b', full_text) and 'triệu' not in salary and 'thỏa thuận' not in salary):
         flags.append("Thu nhập dựa vào hoa hồng, không rõ lương cứng")
         cons.append("Lương không ổn định hoặc phụ thuộc hoàn toàn vào doanh số")
 
+    # 1.7 Strict 2-3+ years of specialized experience
+    if re.search(r'\b(từ 2 năm kinh nghiệm|tối thiểu 2 năm|có ít nhất 2 năm|kinh nghiệm từ 2 - 3 năm|3 năm kinh nghiệm|2-3 năm kinh nghiệm)\b', req):
+        flags.append("Yêu cầu từ 2 năm kinh nghiệm chuyên môn")
+        cons.append("Yêu cầu tối thiểu 2-3 năm kinh nghiệm chuyên sâu - Quá tầm so với cấp độ 1 năm thực tập")
+
+    if exp in ["2 năm", "3 năm", "4 năm", "5 năm"] and not re.search(r'\b(chấp nhận sinh viên|chưa có kinh nghiệm|đào tạo|fresher|intern)\b', full_text):
+        flags.append(f"Yêu cầu kinh nghiệm {exp}")
+        cons.append(f"Yêu cầu {exp} kinh nghiệm chuyên môn")
+
     # -------------------------------------------------------------
-    # 2. ROLE CATEGORY & BASE MATCHING (Max 40 pts)
+    # 2. SENIORITY FIT & TRAINING (Max 30 pts)
+    # -------------------------------------------------------------
+    seniority_score = 0
+    if re.search(r'\b(không yêu cầu kinh nghiệm|chưa có kinh nghiệm|chấp nhận sinh viên|mới ra trường|đào tạo từ đầu|được hướng dẫn|fresher|intern|thực tập|trainee|junior)\b', full_text):
+        seniority_score = 30
+        pros.append("Cực kỳ thân thiện với Fresher/Junior: Chấp nhận chưa có nhiều kinh nghiệm, được đào tạo từ đầu")
+    elif exp in ["chưa có kinh nghiệm", "dưới 1 năm", "1 năm"] or re.search(r'\b(kinh nghiệm 1 năm|0 - 1 năm|0-1 năm|dưới 1 năm|ưu tiên có kinh nghiệm là một lợi thế)\b', req + exp):
+        seniority_score = 25
+        pros.append("Yêu cầu kinh nghiệm 0 - 1 năm: Vừa vặn với 1 năm thực tập tại 2 công ty")
+    elif exp == "không yêu cầu":
+        seniority_score = 25
+        pros.append("Không yêu cầu kinh nghiệm cứng")
+    else:
+        seniority_score = 10
+        cons.append("Cần xem xét kỹ yêu cầu kinh nghiệm thực tế")
+
+    # -------------------------------------------------------------
+    # 3. ROLE CATEGORY & SUITABILITY (Max 30 pts)
     # -------------------------------------------------------------
     role_score = 0
     role_cat = "Khác"
 
-    # Category 1: Sales Coordinator / Support / Admin / Operations
+    # Category 1: Sales Coordinator / Sales Admin Junior / Support
     if re.search(r'\b(sales coordinator|sales support|sales admin|hỗ trợ kinh doanh|điều phối kinh doanh|sales operations|trợ lý kinh doanh|business assistant)\b', title):
-        role_cat = "Sales Coordinator / Support"
-        role_score = 38
-        pros.append("Đúng nhóm ưu tiên số 1: Điều phối, hỗ trợ vận hành kinh doanh, làm hợp đồng & báo giá")
+        role_cat = "Sales Coordinator / Admin Junior"
+        role_score = 30
+        pros.append("Đúng nhóm ưu tiên số 1: Điều phối kinh doanh, hỗ trợ văn bản/hợp đồng, quy trình rõ ràng")
     elif re.search(r'\b(điều phối|coordinator|hỗ trợ|support|admin)\b', title) and re.search(r'\b(kinh doanh|bán hàng|khách hàng|dự án)\b', title):
-        role_cat = "Sales Coordinator / Support"
-        role_score = 36
-        pros.append("Vị trí điều phối/hỗ trợ gắn liền với hoạt động kinh doanh")
+        role_cat = "Sales Coordinator / Admin Junior"
+        role_score = 28
+        pros.append("Vị trí điều phối/hỗ trợ gắn với kinh doanh, quy trình chuẩn")
 
-    # Category 2: Project Coordinator / Project Assistant / Real Estate Development / Research
-    elif re.search(r'\b(project coordinator|project assistant|trợ lý dự án|điều phối dự án|quản lý dự án|phát triển dự án|project executive)\b', title):
-        role_cat = "Project Coordinator / Development"
-        role_score = 38
-        pros.append("Đúng nhóm ưu tiên: Điều phối dự án, theo dõi tiến độ, phù hợp nền tảng BĐS NEU")
-    elif re.search(r'\b(nghiên cứu thị trường|market research|research executive|research analyst|phân tích thị trường)\b', title):
+    # Category 2: Project Assistant / Project Coordinator Junior
+    elif re.search(r'\b(project coordinator|project assistant|trợ lý dự án|điều phối dự án|project executive)\b', title):
+        role_cat = "Project Assistant / Coordinator"
+        role_score = 30
+        pros.append("Đúng nhóm ưu tiên số 1: Trợ lý dự án, theo dõi tiến độ, phù hợp bằng BĐS NEU")
+
+    # Category 3: Customer Success / Client Support
+    elif re.search(r'\b(customer success|client success|chăm sóc khách hàng b2b|quản lý trải nghiệm|client service)\b', title):
+        role_cat = "Customer Success Junior"
+        role_score = 28
+        pros.append("Đúng nhóm ưu tiên: Chăm sóc khách hàng doanh nghiệp sau bán, giải quyết vấn đề")
+
+    # Category 4: Real Estate Research / Market Research Junior
+    elif re.search(r'\b(nghiên cứu thị trường|market research|research executive|research assistant|phân tích thị trường)\b', title):
         role_cat = "Research & Market Analysis"
-        role_score = 36
-        pros.append("Phù hợp năng lực nghiên cứu, phân tích dự án & thị trường")
+        role_score = 27
+        pros.append("Phù hợp năng lực nghiên cứu, phân tích dự án & thị trường BĐS")
 
-    # Category 3: B2B Account Executive / Solution Sales / Business Development
-    elif re.search(r'\b(account executive|b2b|business development|chuyên viên phát triển kinh doanh|tư vấn giải pháp|partnership|solution consultant|client executive|account management)\b', title):
-        role_cat = "B2B Account / Business Development"
-        role_score = 36
+    # Category 5: B2B Account Junior / Business Development Trainee
+    elif re.search(r'\b(account executive|b2b|business development|chuyên viên phát triển kinh doanh|tư vấn giải pháp|partnership|account management)\b', title):
+        role_cat = "B2B Account Junior"
+        role_score = 26
         pros.append("Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh")
 
-    # Category 4: Customer Success / Client Experience
-    elif re.search(r'\b(customer success|client success|chăm sóc khách hàng b2b|quản lý trải nghiệm khách hàng|cx executive)\b', title):
-        role_cat = "Customer Success"
-        role_score = 35
-        pros.append("Vị trí chăm sóc và phát triển khách hàng sau bán (CS), tập trung giải quyết vấn đề")
-
-    # Category 5: Marketing / Content / Social
-    elif re.search(r'\b(marketing coordinator|marketing executive|content marketing|social media|chuyên viên nội dung|truyền thông|copywriter)\b', title):
-        role_cat = "Marketing / Content"
-        role_score = 28
+    # Category 6: Marketing Coordinator / Content Junior
+    elif re.search(r'\b(marketing coordinator|marketing executive|content marketing|social media|chuyên viên nội dung|marketing assistant)\b', title):
+        role_cat = "Marketing / Content Junior"
+        role_score = 22
         pros.append("Tận dụng khả năng viết và biên tập nội dung, phân tích đối tượng")
 
-    # Category 6: Real Estate General Sales / Consultant
-    elif re.search(r'\b(bất động sản|bđs|nhân viên kinh doanh|chuyên viên tư vấn|sales executive|nhân viên tư vấn)\b', title):
+    elif re.search(r'\b(nhân viên kinh doanh|chuyên viên tư vấn|sales executive)\b', title):
         role_cat = "Tư vấn & Kinh doanh tổng quát"
-        role_score = 18
-        pros.append("Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành")
-
+        role_score = 15
+        pros.append("Vị trí kinh doanh / tư vấn cơ bản")
     else:
-        role_score = 10
         role_cat = "Khác"
+        role_score = 8
 
     # -------------------------------------------------------------
-    # 3. LEVERAGE PROFILE: Real Estate, English, Writing (Max 30 pts)
+    # 4. PROFILE LEVERAGE: Real Estate, English, Writing (Max 25 pts)
     # -------------------------------------------------------------
     leverage_score = 0
-    # Real Estate background match
-    if re.search(r'\b(bất động sản|bđs|địa ốc|nhà đất|chủ đầu tư|dự án|tòa nhà|mặt bằng|cho thuê văn phòng|leasing)\b', full_text):
-        leverage_score += 12
-        pros.append("Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân")
-    elif re.search(r'\b(xây dựng|kiến trúc|nội thất|vật liệu|f&b|giáo dục|saas|phần mềm|dịch vụ b2b)\b', full_text):
-        leverage_score += 8
-        pros.append("Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng")
-
-    # English Requirement / Advantage (TOEIC 855)
+    # English leverage (TOEIC 855)
     if re.search(r'\b(tiếng anh|english|toeic|ielts|giao tiếp tiếng anh|đọc hiểu tiếng anh|tiếng anh khá|tiếng anh tốt|foreign client|international)\b', full_text):
         leverage_score += 10
-        pros.append("Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội")
+        pros.append("Yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 là đòn bẩy vượt trội so với các ứng viên khác")
 
-    # Research / Writing / Coordination skills
-    if re.search(r'\b(báo cáo|nghiên cứu|soạn thảo|hợp đồng|phối hợp|theo dõi tiến độ|tổng hợp|viết bài|lên kế hoạch)\b', full_text):
+    # Real Estate Major Leverage
+    if re.search(r'\b(bất động sản|bđs|địa ốc|nhà đất|chủ đầu tư|dự án|tòa nhà|mặt bằng|cho thuê văn phòng|leasing)\b', full_text):
         leverage_score += 8
-        pros.append("Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ")
+        pros.append("Lĩnh vực BĐS / Không gian / Văn phòng - Tận dụng tối đa bằng cử nhân BĐS NEU")
+    elif re.search(r'\b(giáo dục|saas|phần mềm|dịch vụ doanh nghiệp|b2b|xây dựng|f&b)\b', full_text):
+        leverage_score += 5
+        pros.append("Lĩnh vực B2B dịch vụ chuyên nghiệp, môi trường văn minh")
+
+    # Writing & Documentation & Coordination
+    if re.search(r'\b(báo cáo|hợp đồng|soạn thảo|phối hợp|quy trình|hồ sơ|theo dõi tiến độ|viết bài)\b', full_text):
+        leverage_score += 7
+        pros.append("Công việc đòi hỏi sự cẩn thận, soạn thảo văn bản, theo dõi tiến độ")
 
     # -------------------------------------------------------------
-    # 4. SALARY & COMPENSATION (Max 15 pts)
+    # 5. COMPENSATION & TRAINING / CULTURE (Max 15 pts)
     # -------------------------------------------------------------
-    salary_score = 0
-    # Analyze salary string
-    if any(k in salary for k in ["tới 20", "tới 25", "tới 30", "15 - 20", "12 - 18", "10 - 15", "10 - 20", "12 - 15", "10 - 12", "8 - 12", "8 - 15", "8 - 10", "từ 10", "từ 12", "từ 15"]):
-        salary_score = 15
-        pros.append(f"Mức lương hấp dẫn: {job.get('salary')} (đạt mức kỳ vọng >= 8-10M)")
-    elif any(k in salary for k in ["7 - 10", "6 - 10", "7 - 9", "thỏa thuận", "cạnh tranh", "từ 8"]):
-        salary_score = 11
-        pros.append(f"Mức lương cạnh tranh / thỏa thuận: {job.get('salary')}")
-    elif any(k in salary for k in ["5 - 8", "6 - 8", "dưới 8", "từ 5", "từ 6"]):
-        salary_score = 6
-        cons.append(f"Mức lương hơi thấp so với kỳ vọng: {job.get('salary')}")
+    comp_score = 0
+    # Base Salary appropriate for Fresher/Junior (7 - 15M)
+    if any(k in salary for k in ["8 - 12", "8 - 15", "8 - 10", "7 - 10", "10 - 15", "10 - 12", "12 - 15", "từ 8", "từ 10", "thỏa thuận", "cạnh tranh"]):
+        comp_score += 8
+        pros.append(f"Mức lương phù hợp với Fresher/Junior: {job.get('salary')}")
+    elif any(k in salary for k in ["6 - 8", "7 - 9", "5 - 8"]):
+        comp_score += 6
+        pros.append(f"Mức lương khởi điểm: {job.get('salary')}")
     else:
-        salary_score = 8
+        comp_score += 5
 
-    # -------------------------------------------------------------
-    # 5. GROWTH & CULTURE / ONBOARDING (Max 15 pts)
-    # -------------------------------------------------------------
-    growth_score = 0
-    if re.search(r'\b(đào tạo|onboarding|lộ trình thăng tiến|career path|chuyên viên|leader|mentor|hướng dẫn bài bản)\b', full_text):
-        growth_score += 10
-        pros.append("Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng")
+    # Training & Onboarding
+    if re.search(r'\b(đào tạo|onboarding|hướng dẫn bài bản|được đào tạo|mentor|chỉ dẫn|lộ trình thăng tiến)\b', full_text):
+        comp_score += 7
+        pros.append("Có quy trình đào tạo và người hướng dẫn bài bản, giảm bớt áp lực tự bơi")
     else:
-        growth_score += 5
-
-    if re.search(r'\b(bhxh|bảo hiểm|du lịch|thưởng tháng 13|nghỉ t7|nghỉ thứ 7|nghỉ chủ nhật|lương tháng 13)\b', full_text):
-        growth_score += 5
-        pros.append("Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)")
+        comp_score += 3
 
     # -------------------------------------------------------------
-    # TOTAL SCORE CALCULATION & TIER CLASSIFICATION
+    # TOTAL SCORE & TIER CALCULATION
     # -------------------------------------------------------------
-    total_score = min(100, role_score + leverage_score + salary_score + growth_score)
+    total_score = seniority_score + role_score + leverage_score + comp_score
 
-    # Penalties for negative flags
+    # Heavy penalties for flags
     if flags:
         total_score -= 25 * len(flags)
 
-    total_score = max(0, total_score)
+    total_score = max(0, min(100, total_score))
 
+    # Tier Classification for Junior/Fresher
     if total_score >= 70 and not flags and role_cat not in ["Khác", "Kế toán / Kiểm toán"]:
         tier = 'Tier A'
-    elif total_score >= 50 and not flags and role_cat not in ["Khác", "Kế toán / Kiểm toán"]:
+    elif total_score >= 55 and len(flags) <= 1 and role_cat not in ["Khác", "Kế toán / Kiểm toán"]:
         tier = 'Tier B'
     else:
         tier = 'Tier C'
 
-    # CV Highlights generator
+    # CV Highlights customized for Junior
     cv_highlight = ""
-    if role_cat in ["Sales Coordinator / Support", "Project Coordinator / Development"]:
-        cv_highlight = "Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855."
-    elif role_cat == "B2B Account / Business Development":
-        cv_highlight = "Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường."
+    if role_cat == "Sales Coordinator / Admin Junior":
+        cv_highlight = "Nhấn mạnh: Tốt nghiệp NEU, TOEIC 855, tính cách cẩn thận, thành thạo tin học văn phòng, khả năng phối hợp đa phòng ban và tinh thần cầu tiến học hỏi."
+    elif role_cat == "Project Assistant / Coordinator":
+        cv_highlight = "Nhấn mạnh: Bằng cử nhân BĐS NEU, khả năng nghiên cứu & tổng hợp tài liệu dự án, kỹ năng theo dõi tiến độ và tiếng Anh thương mại 855 TOEIC."
+    elif role_cat == "Customer Success Junior":
+        cv_highlight = "Nhấn mạnh: Khả năng lắng nghe, thấu hiểu nhu cầu khách hàng, tinh thần trách nhiệm và kỹ năng xử lý tình huống khéo léo."
+    elif role_cat == "B2B Account Junior":
+        cv_highlight = "Nhấn mạnh: Khả năng nghiên cứu sản phẩm/đối tác, tư duy tư vấn giải pháp văn minh, sẵn sàng học hỏi quy trình kinh doanh B2B."
     elif role_cat == "Research & Market Analysis":
-        cv_highlight = "Nhấn mạnh: Bằng BĐS NEU, kinh nghiệm nghiên cứu thị trường, lập báo cáo phân tích, đọc tài liệu tiếng Anh chuyên ngành (TOEIC 855)."
-    elif role_cat == "Customer Success":
-        cv_highlight = "Nhấn mạnh: Khả năng giải quyết vấn đề, chăm sóc khách hàng doanh nghiệp, tư vấn giải pháp và tinh thần trách nhiệm cao."
-    elif role_cat == "Marketing / Content":
-        cv_highlight = "Nhấn mạnh: Năng khiếu viết nội dung tự nhiên, tư duy nhạy bén về thị trường và khả năng lên kế hoạch truyền thông bài bản."
+        cv_highlight = "Nhấn mạnh: Nền tảng học thuật BĐS NEU, kỹ năng thu thập và phân tích dữ liệu thị trường, khả năng đọc tài liệu tiếng Anh nhanh."
+    elif role_cat == "Marketing / Content Junior":
+        cv_highlight = "Nhấn mạnh: Tư duy nội dung tự nhiên, khả năng viết bài đa dạng văn phong và tinh thần bắt nhịp xu hướng nhanh."
     else:
-        cv_highlight = "Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855."
+        cv_highlight = "Nhấn mạnh: Nền tảng ĐH Kinh tế Quốc dân, TOEIC 855 và thái độ làm việc nghiêm túc, sẵn sàng đào tạo."
 
     return total_score, tier, role_cat, pros, cons, cv_highlight, flags
 
@@ -197,8 +221,6 @@ def main():
     reviews_dir.mkdir(parents=True, exist_ok=True)
 
     batch_files = sorted(batches_dir.glob("batch_*.json"))
-    print(f"Found {len(batch_files)} batch files to review.")
-
     all_results = []
 
     for b_file in batch_files:
@@ -211,7 +233,7 @@ def main():
         batch_tier_c_count = 0
 
         for job in jobs:
-            score, tier, role_cat, pros, cons, cv_hl, flags = score_job(job)
+            score, tier, role_cat, pros, cons, cv_hl, flags = score_job_junior(job)
             res_item = {
                 "id": job["id"],
                 "index": job["index"],
@@ -242,35 +264,35 @@ def main():
         # Write Batch Review Markdown
         review_md = reviews_dir / f"review_batch_{batch_num}.md"
         with open(review_md, "w", encoding="utf-8") as rf:
-            rf.write(f"# Đánh Giá Việc Làm - Batch {batch_num}\n\n")
+            rf.write(f"# Đánh Giá Việc Làm - Batch {batch_num} (Dành cho Fresher/Junior)\n\n")
             rf.write(f"- **Tổng số việc làm trong batch:** {len(jobs)}\n")
-            rf.write(f"- **🌟 Tier A (Rất phù hợp):** {len(batch_tier_a)}\n")
+            rf.write(f"- **🌟 Tier A (Khuyên nộp ngay - Phù hợp Junior):** {len(batch_tier_a)}\n")
             rf.write(f"- **🎯 Tier B (Đáng cân nhắc):** {len(batch_tier_b)}\n")
-            rf.write(f"- **⛔ Tier C (Loại bỏ / Red-flags / Không khớp):** {batch_tier_c_count}\n\n")
+            rf.write(f"- **⛔ Tier C (Loại bỏ - Cần kinh nghiệm sâu/Quản lý/Telesales):** {batch_tier_c_count}\n\n")
             rf.write("---\n\n")
 
             if batch_tier_a:
-                rf.write("## 🌟 VIỆC LÀM TIER A (ĐỀ XUẤT HÀNG ĐẦU)\n\n")
+                rf.write("## 🌟 VIỆC LÀM TIER A (PHÙ HỢP NHẤT VỚI 1 NĂM THỰC TẬP)\n\n")
                 for item in batch_tier_a:
                     rf.write(f"### #{item['index']} [{item['title']}]({item['url']})\n")
                     rf.write(f"- **Công ty:** {item['company_name']}\n")
-                    rf.write(f"- **Mức lương:** {item['salary']} | **Kinh nghiệm:** {item['experience']} | **Địa điểm:** {item['locations']}\n")
+                    rf.write(f"- **Mức lương:** `{item['salary']}` | **Yêu cầu KN:** `{item['experience']}` | **Địa điểm:** {item['locations']}\n")
                     rf.write(f"- **Điểm phù hợp:** `{item['score']}/100` | **Nhóm:** `{item['role_category']}`\n")
                     rf.write("- **Ưu điểm nổi bật:**\n")
                     for p in item['pros']:
                         rf.write(f"  + {p}\n")
                     if item['cons']:
-                        rf.write("- **Lưu ý / Rủi ro cần hỏi:**\n")
+                        rf.write("- **Lưu ý cần hỏi thêm:**\n")
                         for c in item['cons']:
                             rf.write(f"  - {c}\n")
-                    rf.write(f"- **Chiến lược CV:** {item['cv_highlight']}\n\n")
+                    rf.write(f"- **Chiến lược CV:** *{item['cv_highlight']}*\n\n")
 
             if batch_tier_b:
                 rf.write("## 🎯 VIỆC LÀM TIER B (CÂN NHẮC THÊM)\n\n")
                 for item in batch_tier_b:
                     rf.write(f"### #{item['index']} [{item['title']}]({item['url']})\n")
                     rf.write(f"- **Công ty:** {item['company_name']}\n")
-                    rf.write(f"- **Mức lương:** {item['salary']} | **Điểm:** `{item['score']}/100` | **Nhóm:** `{item['role_category']}`\n")
+                    rf.write(f"- **Mức lương:** `{item['salary']}` | **Điểm:** `{item['score']}/100` | **Nhóm:** `{item['role_category']}`\n")
                     rf.write("- **Ưu điểm:**\n")
                     for p in item['pros']:
                         rf.write(f"  + {p}\n")
@@ -280,9 +302,7 @@ def main():
                             rf.write(f"  - {c}\n")
                     rf.write("\n")
 
-        print(f"Batch {batch_num}: {len(batch_tier_a)} Tier A, {len(batch_tier_b)} Tier B, {batch_tier_c_count} Tier C -> {review_md.name}")
-
-    # Save full evaluated results json for Task 4
+    # Save full evaluated results json
     evaluated_file = root_dir / "evaluated_jobs.json"
     with open(evaluated_file, "w", encoding="utf-8") as ef:
         json.dump(all_results, ef, ensure_ascii=False, indent=2)
@@ -291,12 +311,10 @@ def main():
     tier_b_total = sum(1 for r in all_results if r['tier'] == 'Tier B')
     tier_c_total = sum(1 for r in all_results if r['tier'] == 'Tier C')
 
-    print(f"\n=======================================================")
-    print(f"SUMMARY EVALUATION ACROSS ALL {len(all_results)} JOBS:")
-    print(f"[Tier A] Top Matches: {tier_a_total}")
-    print(f"[Tier B] Good Matches: {tier_b_total}")
-    print(f"[Tier C] Filtered out: {tier_c_total}")
-    print(f"=======================================================\n")
+    print(f"DONE EVALUATION:")
+    print(f"Tier A (Junior Matches): {tier_a_total}")
+    print(f"Tier B (Potential): {tier_b_total}")
+    print(f"Tier C (Excluded): {tier_c_total}")
 
 if __name__ == "__main__":
     main()

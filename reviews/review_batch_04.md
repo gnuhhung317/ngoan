@@ -1,66 +1,60 @@
-# Đánh Giá Việc Làm - Batch 04
+# Đánh Giá Việc Làm - Batch 04 (Dành cho Fresher/Junior)
 
 - **Tổng số việc làm trong batch:** 35
-- **🌟 Tier A (Rất phù hợp):** 1
-- **🎯 Tier B (Đáng cân nhắc):** 4
-- **⛔ Tier C (Loại bỏ / Red-flags / Không khớp):** 30
+- **🌟 Tier A (Khuyên nộp ngay - Phù hợp Junior):** 3
+- **🎯 Tier B (Đáng cân nhắc):** 1
+- **⛔ Tier C (Loại bỏ - Cần kinh nghiệm sâu/Quản lý/Telesales):** 31
 
 ---
 
-## 🌟 VIỆC LÀM TIER A (ĐỀ XUẤT HÀNG ĐẦU)
-
-### #123 [Chuyên Viên Phát Triển Dự Án - Quan Hệ Khách Hàng (Xây Dựng) / Phát Triển Kinh Doanh - Thu Nhập Lên Tới 30M/Tháng](https://www.topcv.vn/viec-lam/chuyen-vien-phat-trien-du-an-quan-he-khach-hang-xay-dung-phat-trien-kinh-doanh-thu-nhap-len-toi-30m-thang/2311927.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty cổ phần Austnam
-- **Mức lương:** Tới 30 triệu | **Kinh nghiệm:** 2 năm | **Địa điểm:** Hà Nội
-- **Điểm phù hợp:** `88/100` | **Nhóm:** `Project Coordinator / Development`
-- **Ưu điểm nổi bật:**
-  + Đúng nhóm ưu tiên: Điều phối dự án, theo dõi tiến độ, phù hợp nền tảng BĐS NEU
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Tới 30 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược CV:** Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.
-
-## 🎯 VIỆC LÀM TIER B (CÂN NHẮC THÊM)
+## 🌟 VIỆC LÀM TIER A (PHÙ HỢP NHẤT VỚI 1 NĂM THỰC TẬP)
 
 ### #107 [Nhân Viên Kinh Doanh Thiết Bị Y Tế [Thu Nhập Upto 20 Triệu+++ Được Đào Tạo Bài Bản] Tại TP. Hồ Chí Minh & Hà Nội](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-thiet-bi-y-te-thu-nhap-upto-20-trieu-duoc-dao-tao-bai-ban-tai-tp-ho-chi-minh-ha-noi/1694555.html?ta_source=BoxFeatureJob_LinkDetail)
 - **Công ty:** CÔNG TY CỔ PHẦN CÔNG NGHỆ HADIMED
-- **Mức lương:** 15 - 20 triệu | **Điểm:** `68/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
-- **Ưu điểm:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 15 - 20 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-
-### #109 [Chuyên Viên Tư Vấn Tài Chính - Thu Nhập Đến 50 Triệu - Từ 6 Tháng Kinh Nghiệm - Tại Phường Thanh Xuân, Hà Nội](https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tai-chinh-thu-nhap-den-50-trieu-tu-6-thang-kinh-nghiem-tai-phuong-thanh-xuan-ha-noi/2314460.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH MỘT THÀNH VIÊN ĐỨC MINH HƯNG THỊNH
-- **Mức lương:** 20 - 50 triệu | **Điểm:** `57/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
-- **Ưu điểm:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
+- **Mức lương:** `15 - 20 triệu` | **Yêu cầu KN:** `1 năm` | **Địa điểm:** Hà Nội & Hồ Chí Minh (mới)
+- **Điểm phù hợp:** `72/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
+- **Ưu điểm nổi bật:**
+  + Cực kỳ thân thiện với Fresher/Junior: Chấp nhận chưa có nhiều kinh nghiệm, được đào tạo từ đầu
+  + Vị trí kinh doanh / tư vấn cơ bản
+  + Lĩnh vực BĐS / Không gian / Văn phòng - Tận dụng tối đa bằng cử nhân BĐS NEU
+  + Công việc đòi hỏi sự cẩn thận, soạn thảo văn bản, theo dõi tiến độ
+  + Có quy trình đào tạo và người hướng dẫn bài bản, giảm bớt áp lực tự bơi
+- **Chiến lược CV:** *Nhấn mạnh: Nền tảng ĐH Kinh tế Quốc dân, TOEIC 855 và thái độ làm việc nghiêm túc, sẵn sàng đào tạo.*
 
 ### #115 [Nhân Viên Kinh Doanh/ Nhân Viên Tư Vấn Tuyển Sinh/ Tư Vấn Khóa Học IELTS (Không Yêu Cầu Kinh Nghiệm Giáo Dục) - Lương 12 - 25 Triệu/Tháng](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-nhan-vien-tu-van-tuyen-sinh-tu-van-khoa-hoc-ielts-khong-yeu-cau-kinh-nghiem-giao-duc-luong-12-25-trieu-thang/2082069.html?ta_source=BoxFeatureJob_LinkDetail)
 - **Công ty:** Công ty Cổ phần Giáo dục và Công nghệ TIW
-- **Mức lương:** 12 - 25 triệu | **Điểm:** `59/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
-- **Ưu điểm:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
+- **Mức lương:** `12 - 25 triệu` | **Yêu cầu KN:** `Dưới 1 năm` | **Địa điểm:** Hà Nội
+- **Điểm phù hợp:** `79/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
+- **Ưu điểm nổi bật:**
+  + Cực kỳ thân thiện với Fresher/Junior: Chấp nhận chưa có nhiều kinh nghiệm, được đào tạo từ đầu
+  + Vị trí kinh doanh / tư vấn cơ bản
+  + Yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 là đòn bẩy vượt trội so với các ứng viên khác
+  + Lĩnh vực B2B dịch vụ chuyên nghiệp, môi trường văn minh
+  + Công việc đòi hỏi sự cẩn thận, soạn thảo văn bản, theo dõi tiến độ
+  + Có quy trình đào tạo và người hướng dẫn bài bản, giảm bớt áp lực tự bơi
+- **Chiến lược CV:** *Nhấn mạnh: Nền tảng ĐH Kinh tế Quốc dân, TOEIC 855 và thái độ làm việc nghiêm túc, sẵn sàng đào tạo.*
 
 ### #120 [Nhân Viên Kinh Doanh Phát Triển Thị Trường Kênh Phân Phối - Sales Thị Trường - Sales B2B - Sales Rep (Thu Nhập 15 - 25M ++++)](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-phat-trien-thi-truong-kenh-phan-phoi-sales-thi-truong-sales-b2b-sales-rep-thu-nhap-15-25m/2295475.html?ta_source=BoxFeatureJob_LinkDetail)
 - **Công ty:** CÔNG TY CỔ PHẦN KMG SOLUTION
-- **Mức lương:** 18 - 35 triệu | **Điểm:** `67/100` | **Nhóm:** `B2B Account / Business Development`
-- **Ưu điểm:**
+- **Mức lương:** `18 - 35 triệu` | **Yêu cầu KN:** `1 năm` | **Địa điểm:** Hà Nội
+- **Điểm phù hợp:** `75/100` | **Nhóm:** `B2B Account Junior`
+- **Ưu điểm nổi bật:**
+  + Yêu cầu kinh nghiệm 0 - 1 năm: Vừa vặn với 1 năm thực tập tại 2 công ty
   + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
+  + Lĩnh vực B2B dịch vụ chuyên nghiệp, môi trường văn minh
+  + Công việc đòi hỏi sự cẩn thận, soạn thảo văn bản, theo dõi tiến độ
+  + Có quy trình đào tạo và người hướng dẫn bài bản, giảm bớt áp lực tự bơi
+- **Chiến lược CV:** *Nhấn mạnh: Khả năng nghiên cứu sản phẩm/đối tác, tư duy tư vấn giải pháp văn minh, sẵn sàng học hỏi quy trình kinh doanh B2B.*
+
+## 🎯 VIỆC LÀM TIER B (CÂN NHẮC THÊM)
+
+### #109 [Chuyên Viên Tư Vấn Tài Chính - Thu Nhập Đến 50 Triệu - Từ 6 Tháng Kinh Nghiệm - Tại Phường Thanh Xuân, Hà Nội](https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tai-chinh-thu-nhap-den-50-trieu-tu-6-thang-kinh-nghiem-tai-phuong-thanh-xuan-ha-noi/2314460.html?ta_source=BoxFeatureJob_LinkDetail)
+- **Công ty:** CÔNG TY TNHH MỘT THÀNH VIÊN ĐỨC MINH HƯNG THỊNH
+- **Mức lương:** `20 - 50 triệu` | **Điểm:** `69/100` | **Nhóm:** `Tư vấn & Kinh doanh tổng quát`
+- **Ưu điểm:**
+  + Cực kỳ thân thiện với Fresher/Junior: Chấp nhận chưa có nhiều kinh nghiệm, được đào tạo từ đầu
+  + Vị trí kinh doanh / tư vấn cơ bản
+  + Lĩnh vực B2B dịch vụ chuyên nghiệp, môi trường văn minh
+  + Công việc đòi hỏi sự cẩn thận, soạn thảo văn bản, theo dõi tiến độ
+  + Có quy trình đào tạo và người hướng dẫn bài bản, giảm bớt áp lực tự bơi
 

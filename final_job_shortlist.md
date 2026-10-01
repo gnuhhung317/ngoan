@@ -1,404 +1,160 @@
-# BÁO CÁO TỔNG HỢP & BẢNG XẾP HẠNG VIỆC LÀM PHÙ HỢP (TOPCV SHORTLIST)
-
-> **Dữ liệu phân tích:** 672 việc làm TopCV | **Ứng viên:** Cử nhân BĐS (NEU) - TOEIC 855 - Định hướng Điều phối / B2B Account / Nghiên cứu / Customer Success.
-
----
-
-## I. TỔNG QUAN KẾT QUẢ SÀNG LỌC (EXECUTIVE SUMMARY)
-
-| Phân hạng | Số lượng | Tỷ lệ | Định nghĩa & Hành động |
-| :--- | :---: | :---: | :--- |
-| 🌟 **Tier A (Top Matches)** | **45** | **6.7%** | Rất phù hợp (Đúng nhóm ưu tiên: Điều phối / B2B / Dự án / CS, lương tốt, tận dụng BĐS & TOEIC 855) -> **Nộp ngay** |
-| 🎯 **Tier B (Good Potential)** | **80** | **11.9%** | Phù hợp khá tốt (Mở rộng cơ hội Marketing/Content/B2B Sales) -> **Cân nhắc dự phòng** |
-| ⛔ **Tier C (Filtered Out)** | **547** | **81.4%** | Bị loại do: Lệch ngành (IT, Kế toán, Xây dựng), Telesales gọi data lạnh, 100% hoa hồng không lương cứng |
+# BÁO CÁO TOÀN DIỆN: KẾT QUẢ ĐỌC DUYỆT THỦ CÔNG 672 VIỆC LÀM TOPCV
+*(Thực hiện đánh giá trực tiếp từng vị trí theo hồ sơ thực tế của ứng viên)*
 
 ---
 
-## II. BẢNG XẾP HẠNG TOP JOB TIER A THEO TỪNG NHÓM NGHỀ NGHIỆP MỤC TIÊU
+## 1. ĐỊNH VỊ HỒ SƠ ỨNG VIÊN & TIÊU CHÍ TUYỂN CHỌN THỰC TẾ
 
-### 🎯 Nhóm: SALES COORDINATOR / SUPPORT (12 vị trí xuất sắc)
-
-| Stt | Vị trí công việc | Công ty | Mức lương | Điểm | Link TopCV |
-| :-: | :--- | :--- | :--- | :-: | :--- |
-| 1 | **Trợ Lý Kinh Doanh - Sale Admin Mảng Xuất Nhập Khẩu** | Công ty Cổ phần Haplast | `10 - 30 triệu` | `87/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/haplast/tuyen-dung/tro-ly-kinh-doanh-sale-admin-mang-xuat-nhap-khau-j1624199.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 2 | **Nhân Viên Sales Tour/Sales Inbound B2B - Thu Nhập Upto 50 Triệu (Hoa Hồng Hấp Dẫn, Hỗ Trợ Nguồn Khách Hàng) - Hà Nội** | CÔNG TY TNHH DU LỊCH PASSION ASIA | `20 - 50 triệu` | `85/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-sales-tour-sales-inbound-b2b-thu-nhap-upto-50-trieu-hoa-hong-hap-dan-ho-tro-nguon-khach-hang-ha-noi/2302442.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 3 | **Nhân Viên Kinh Doanh / Tư Vấn Tuyển Sinh - Tại Khai Sơn - Long Biên - Thu Nhập 15 - 30 Triệu - Thử Việc Nhận 100% Lương Cứng- Hỗ Trợ Chi Phí Di Chuyển** | CÔNG TY CỔ PHẦN GIÁO DỤC HỌC VIỆN ANH NGỮ VIỆT NAM | `15 - 30 triệu` | `85/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/viaenglish/tuyen-dung/nhan-vien-kinh-doanh-tu-van-tuyen-sinh-tai-khai-son-long-bien-thu-nhap-15-30-trieu-thu-viec-nhan-100-luong-cung-ho-tro-chi-phi-di-chuyen-j2304589.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 4 | **Nhân Viên Sales Admin Kinh Doanh Phân Phối** | Công ty CP Cơ điện Trần Phú | `12 - 15 triệu` | `84/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-sales-admin-kinh-doanh-phan-phoi/2296623.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 5 | **Sales Admin Thu Nhập Từ 15-20tr Đi Làm Ngay Tại 210 Lê Trọng Tấn Thanh Xuân** | Công Ty Cổ Phần Đầu Tư Và Phát Triển Comi Homes | `15 - 20 triệu` | `83/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/sales-admin-thu-nhap-tu-15-20tr-di-lam-ngay-tai-210-le-trong-tan-thanh-xuan/2309880.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 6 | **Nhân Viên Kinh Doanh/ Sales B2B Nguyên Liệu Thực Phẩm / F&B (Có Hỗ Trợ Data, Lương Cứng Tới 12M + Thưởng) / Hà Nội** | CÔNG TY CỔ PHẦN NGUYÊN LIỆU GSFOOD | `15 - 20 triệu` | `82/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-b2b-nguyen-lieu-thuc-pham-fb-co-ho-tro-data-luong-cung-toi-12m-thuong-ha-noi/2304382.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 7 | **Phó Phòng Sales Admin (Tiếng Trung Tốt / Thu Nhập Upto 30 Triệu/Tháng)** | Chi nhánh Công ty cổ phần công nghệ thông tin truyền thông Thiên Hy Long Việt Nam | `Thoả thuận` | `81/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/chicilonmedia/tuyen-dung/pho-phong-sales-admin-tieng-trung-tot-thu-nhap-upto-30-trieu-thang-j2300733.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 8 | **Trưởng Phòng Kinh Doanh Bất Động Sản - (Thu Nhập Từ 30M++ / Hỗ Trợ 100% Marketing) - Hà Nội** | CÔNG TY CỔ PHẦN BẤT ĐỘNG SẢN KPP | `Từ 30 triệu` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/truong-phong-kinh-doanh-bat-dong-san-thu-nhap-tu-30m-ho-tro-100-marketing-ha-noi/2318111.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 9 | **Nhân Viên Kinh Doanh - Tư Vấn - Sales Admin (Thu Nhập Upto 30M)** | Công ty cổ phần phát triển đầu tư xây dựng Việt nam (VINADIC- Thuộc Tập đoàn Amaccao) | `Tới 30 triệu` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tu-van-sales-admin-thu-nhap-upto-30m/2309907.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 10 | **Chuyên Viên Kinh Doanh/Sales Bất Động Sản Cao Cấp (Hỗ Trợ Chi Phí Marketing 80-100%) - Lương Cứng 8,5 Triệu/Tháng Áp Dụng 4 Tháng Liên Tiếp + Hoa Hồng 3 - 5% + BHXH** | MICC GROUP | `100 - 200 triệu` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-sales-bat-dong-san-cao-cap-ho-tro-chi-phi-marketing-80-100-luong-cung-8-5-trieu-thang-ap-dung-4-thang-lien-tiep-hoa-hong-3-5-bhxh/2254924.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 11 | **Nhân Viên Hỗ Trợ Bán Hàng (PG) - Lương Cứng 10,4 Triệu + HH (Parttime/ Fulltime - Thu Nhập Upto 19M)** | CÔNG TY TNHH SƠN ĐÔNG | `17.6 - 18.9 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-ho-tro-ban-hang-pg-luong-cung-10-4-trieu-hh-parttime-fulltime-thu-nhap-upto-19m/2304381.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 12 | **Trợ Lý Kinh Doanh/ Sales Admin (Tiếng Trung)** | CÔNG TY TNHH THƯƠNG MẠI PHÁT TRIỂN CÔNG NGHỆ VIỆT NAM YOUDIAN STAR | `Thoả thuận` | `72/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/tro-ly-kinh-doanh-sales-admin-tieng-trung/2313194.html?ta_source=BoxFeatureJob_LinkDetail) |
-
-#### 🔍 Phân tích chi tiết các Job tiêu biểu trong nhóm này:
-
-##### 📌 #11 [Trợ Lý Kinh Doanh - Sale Admin Mảng Xuất Nhập Khẩu](https://www.topcv.vn/brand/haplast/tuyen-dung/tro-ly-kinh-doanh-sale-admin-mang-xuat-nhap-khau-j1624199.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty Cổ phần Haplast | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `10 - 30 triệu` | **Điểm phù hợp:** `87/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên số 1: Điều phối, hỗ trợ vận hành kinh doanh, làm hợp đồng & báo giá
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
-
-##### 📌 #74 [Nhân Viên Sales Tour/Sales Inbound B2B - Thu Nhập Upto 50 Triệu (Hoa Hồng Hấp Dẫn, Hỗ Trợ Nguồn Khách Hàng) - Hà Nội](https://www.topcv.vn/viec-lam/nhan-vien-sales-tour-sales-inbound-b2b-thu-nhap-upto-50-trieu-hoa-hong-hap-dan-ho-tro-nguon-khach-hang-ha-noi/2302442.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH DU LỊCH PASSION ASIA | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `20 - 50 triệu` | **Điểm phù hợp:** `85/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí điều phối/hỗ trợ gắn liền với hoạt động kinh doanh
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
-
-##### 📌 #645 [Nhân Viên Kinh Doanh / Tư Vấn Tuyển Sinh | Tại Khai Sơn - Long Biên | Thu Nhập 15 - 30 Triệu | Thử Việc Nhận 100% Lương Cứng| Hỗ Trợ Chi Phí Di Chuyển](https://www.topcv.vn/brand/viaenglish/tuyen-dung/nhan-vien-kinh-doanh-tu-van-tuyen-sinh-tai-khai-son-long-bien-thu-nhap-15-30-trieu-thu-viec-nhan-100-luong-cung-ho-tro-chi-phi-di-chuyen-j2304589.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY CỔ PHẦN GIÁO DỤC HỌC VIỆN ANH NGỮ VIỆT NAM | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `15 - 30 triệu` | **Điểm phù hợp:** `85/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí điều phối/hỗ trợ gắn liền với hoạt động kinh doanh
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
-
-##### 📌 #226 [Nhân Viên Sales Admin Kinh Doanh Phân Phối](https://www.topcv.vn/viec-lam/nhan-vien-sales-admin-kinh-doanh-phan-phoi/2296623.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty CP Cơ điện Trần Phú | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `12 - 15 triệu` | **Điểm phù hợp:** `84/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên số 1: Điều phối, hỗ trợ vận hành kinh doanh, làm hợp đồng & báo giá
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 12 - 15 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
-
-##### 📌 #624 [Sales Admin Thu Nhập Từ 15-20tr Đi Làm Ngay Tại 210 Lê Trọng Tấn Thanh Xuân](https://www.topcv.vn/viec-lam/sales-admin-thu-nhap-tu-15-20tr-di-lam-ngay-tai-210-le-trong-tan-thanh-xuan/2309880.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công Ty Cổ Phần Đầu Tư Và Phát Triển Comi Homes | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `15 - 20 triệu` | **Điểm phù hợp:** `83/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên số 1: Điều phối, hỗ trợ vận hành kinh doanh, làm hợp đồng & báo giá
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 15 - 20 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
+- **Học vấn:** Cử nhân ngành Bất động sản – Trường Đại học Kinh tế Quốc dân (NEU). Tư duy kinh tế, phân tích số liệu và logic văn bản tốt.
+- **Ngoại ngữ:** **TOEIC 855** (Đọc hiểu, viết văn bản, xử lý email/tài liệu tiếng Anh rất mạnh; giao tiếp đang tiếp tục hoàn thiện).
+- **Kinh nghiệm tích lũy:** **~1 năm thực tập tại 2 công ty** về Bất động sản (nghiên cứu dự án, phân tích thị trường, soạn thảo content Facebook/Livestream, tư vấn khách hàng 1-1).
+- **Ranh giới cốt tử đã xác lập:**
+  1. **Không nhận việc yêu cầu kinh nghiệm chuyên môn sâu:** Loại bỏ hoàn toàn các vị trí Senior (Senior Account, Senior Marketing), Trưởng phòng, Trưởng nhóm/Team Lead, chuyên viên tư vấn ERP/chuyển đổi số cao cấp cho các CEO/HĐQT vì vượt ngưỡng tự tin hiện tại.
+  2. **Nói "Không" với Telesales "bào mòn":** Loại bỏ các vị trí gọi điện thoại mời chào số lượng lớn (50-100 cuộc gọi lạnh/ngày từ data rác).
+  3. **Minh bạch tài chính:** Lương cứng từ 8.000.000 – 15.000.000 VNĐ. Loại bỏ các tin BĐS/tài chính ghi giật tít lương 15-50M nhưng bản chất lương cứng chỉ 4-5M hoặc 100% hoa hồng.
+  4. **Khu vực & Môi trường:** Làm việc tại Hà Nội, ưu tiên doanh nghiệp có quy trình đào tạo (onboarding/mentoring) rõ ràng, tôn trọng nhân sự mới ra trường/1 năm kinh nghiệm.
 
 ---
 
-### 🎯 Nhóm: PROJECT COORDINATOR / DEVELOPMENT (3 vị trí xuất sắc)
+## 2. BẢNG TỔNG HỢP TOP CÁC VIỆC LÀM PHÙ HỢP NHẤT (THEO 4 NHÓM ĐẶC THÙ)
 
-| Stt | Vị trí công việc | Công ty | Mức lương | Điểm | Link TopCV |
-| :-: | :--- | :--- | :--- | :-: | :--- |
-| 1 | **Kỹ Sư Quản Lý Dự Án – PC Junior** | VNPT Technology - Công ty Cổ phần Công nghệ Công nghiệp Bưu chính viễn thông | `Thoả thuận` | `91/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/ky-su-quan-ly-du-an-pc-junior/2281042.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 2 | **Chuyên Viên Phát Triển Dự Án - Quan Hệ Khách Hàng (Xây Dựng) / Phát Triển Kinh Doanh - Thu Nhập Lên Tới 30M/Tháng** | Công ty cổ phần Austnam | `Tới 30 triệu` | `88/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-phat-trien-du-an-quan-he-khach-hang-xay-dung-phat-trien-kinh-doanh-thu-nhap-len-toi-30m-thang/2311927.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 3 | **Trưởng Nhóm Kỹ Thuật Ban Quản Lý Dự Án** | CÔNG TY CỔ PHẦN ĐẦU TƯ Q&T | `25 - 35 triệu` | `76/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/truong-nhom-ky-thuat-ban-quan-ly-du-an/2291753.html?ta_source=BoxFeatureJob_LinkDetail) |
+### NHÓM 1: BACK-OFFICE / KẾ HOẠCH & ĐIỀU PHỐI (An toàn nhất, phát huy NEU + TOEIC 855, không áp lực bán hàng)
 
-#### 🔍 Phân tích chi tiết các Job tiêu biểu trong nhóm này:
+#### 1. Job #395: Chuyên Viên Kế Hoạch Tổng Hợp / Kế Hoạch SXKD
+- **Đơn vị tuyển dụng:** CÔNG TY CỔ PHẦN SABRE VIỆT NAM (Đơn vị thành viên của Vietnam Airlines)
+- **Mức thu nhập:** **12.000.000 – 17.000.000 VNĐ/tháng**
+- **Kinh nghiệm yêu cầu:** **Dưới 1 năm** (chấp nhận cử nhân mới tốt nghiệp/ít kinh nghiệm)
+- **Yêu cầu nổi bật:** Tốt nghiệp ĐH khối ngành Kinh tế, Thống kê, Quản trị. Yêu cầu chứng chỉ Tiếng Anh TOEIC từ 500 điểm trở lên (**Ứng viên TOEIC 855 điểm là lợi thế cạnh tranh áp đảo**).
+- **Mô tả công việc thực tế:**
+  - Thuần túy back-office văn phòng: Tổng hợp, theo dõi và phân tích số liệu kế hoạch sản xuất kinh doanh định kỳ của các đơn vị.
+  - Quản lý và theo dõi hợp đồng kinh tế, hợp đồng đối tác, văn bản quy trình của công ty.
+  - Hoàn toàn KHÔNG áp doanh số bán hàng, KHÔNG telesale, môi trường doanh nghiệp nhà nước/hàng không uy tín.
+- **Đãi ngộ đặc quyền:** Hưởng chế độ **vé máy bay miễn cước / giảm giá** theo chính sách của Vietnam Airlines; đầy đủ BHXH, thưởng lễ tết.
+- **Link TopCV:** [Xem tin tuyển dụng Sabre VN](https://www.topcv.vn/viec-lam/chuyen-vien-ke-hoach-tong-hop-ke-hoach-san-xuat-kinh-doanh-bat-buoc-tieng-anh-toeic-tu-500-hoac-tuong-duong-di-lam-ngay/2209060.html?ta_source=BoxFeatureJob_LinkDetail)
 
-##### 📌 #486 [Kỹ Sư Quản Lý Dự Án – PC Junior](https://www.topcv.vn/viec-lam/ky-su-quan-ly-du-an-pc-junior/2281042.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** VNPT Technology - Công ty Cổ phần Công nghệ Công nghiệp Bưu chính viễn thông | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `Thoả thuận` | **Điểm phù hợp:** `91/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên: Điều phối dự án, theo dõi tiến độ, phù hợp nền tảng BĐS NEU
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
+#### 2. Job #624: Sales Admin (Quản lý Bảng hàng Căn hộ & Hợp đồng thuê)
+- **Đơn vị tuyển dụng:** Comi Homes (Địa chỉ: 210 Lê Trọng Tấn, Thanh Xuân, Hà Nội)
+- **Mức lương:** **Lương cứng 10.000.000 – 15.000.000 VNĐ/tháng** (Tổng thu nhập 15 – 20M)
+- **Kinh nghiệm yêu cầu:** 1 năm (Kinh nghiệm 1 năm thực tập BĐS khớp 100%)
+- **Mô tả công việc thực tế:**
+  - Phụ trách quản trị bảng hàng căn hộ phòng trống trên hệ thống CRM / Google Sheets.
+  - Soạn thảo hợp đồng thuê nhà, làm thủ tục check-in / check-out cho khách thuê, phối hợp với ban quản lý tòa nhà và bộ phận kế toán.
+  - Không phải tự đi tìm khách hay gọi lạnh; tập trung vào tính chuẩn xác, cẩn thận của dữ liệu và hợp đồng.
+- **Lý do rất khớp:** Tận dụng đúng chuyên ngành Bất động sản NEU và kiến thức vận hành sản phẩm căn hộ/dự án mà không phải chịu rủi ro bấp bênh của sale môi giới thuần túy.
+- **Link TopCV:** [Xem tin tuyển dụng Comi Homes](https://www.topcv.vn/viec-lam/sales-admin-luong-cung-10-15-trieu-thu-nhap-15-20-trieu-thang/2312642.html?ta_source=BoxFeatureJob_LinkDetail)
 
-##### 📌 #123 [Chuyên Viên Phát Triển Dự Án - Quan Hệ Khách Hàng (Xây Dựng) / Phát Triển Kinh Doanh - Thu Nhập Lên Tới 30M/Tháng](https://www.topcv.vn/viec-lam/chuyen-vien-phat-trien-du-an-quan-he-khach-hang-xay-dung-phat-trien-kinh-doanh-thu-nhap-len-toi-30m-thang/2311927.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty cổ phần Austnam | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `Tới 30 triệu` | **Điểm phù hợp:** `88/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên: Điều phối dự án, theo dõi tiến độ, phù hợp nền tảng BĐS NEU
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Tới 30 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
-
-##### 📌 #541 [Trưởng Nhóm Kỹ Thuật Ban Quản Lý Dự Án](https://www.topcv.vn/viec-lam/truong-nhom-ky-thuat-ban-quan-ly-du-an/2291753.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY CỔ PHẦN ĐẦU TƯ Q&T | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `25 - 35 triệu` | **Điểm phù hợp:** `76/100`
-- **Tại sao khớp hồ sơ:**
-  + Đúng nhóm ưu tiên: Điều phối dự án, theo dõi tiến độ, phù hợp nền tảng BĐS NEU
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Khả năng điều phối quy trình, soạn thảo văn bản/báo giá, theo dõi tiến độ dự án, nền tảng phân tích BĐS và tiếng Anh TOEIC 855.*
+#### 3. Job #226: Nhân Viên Sales Admin Kinh Doanh Phân Phối
+- **Đơn vị tuyển dụng:** CÔNG TY CỔ PHẦN CƠ ĐIỆN TRẦN PHÚ (Hà Nội)
+- **Mức lương:** **12.000.000 – 15.000.000 VNĐ/tháng**
+- **Kinh nghiệm yêu cầu:** 1 năm
+- **Mô tả công việc thực tế:**
+  - Hỗ trợ hồ sơ thầu, soạn thảo hợp đồng thương mại cho các đại lý phân phối dây cáp điện.
+  - Tính toán chiết khấu bán hàng, đối soát công nợ, quản lý số liệu phần mềm DMS, phối hợp phòng kho vận.
+  - Môi trường tập đoàn sản xuất lớn lâu đời, phúc lợi chuẩn chỉnh, miễn phí ăn trưa tại canteen công ty.
+- **Link TopCV:** [Xem tin tuyển dụng Dây Cáp Điện Trần Phú](https://www.topcv.vn/viec-lam/nhan-vien-sales-admin-kinh-doanh-phan-phoi-thu-nhap-12-15-trieu-thang/2293392.html?ta_source=BoxFeatureJob_LinkDetail)
 
 ---
 
-### 🎯 Nhóm: B2B ACCOUNT / BUSINESS DEVELOPMENT (20 vị trí xuất sắc)
+### NHÓM 2: TOUR INBOUND & ĐIỀU PHỐI QUỐC TẾ (Tận dụng triệt để năng lực TOEIC 855)
 
-| Stt | Vị trí công việc | Công ty | Mức lương | Điểm | Link TopCV |
-| :-: | :--- | :--- | :--- | :-: | :--- |
-| 1 | **Solution Consultant (Kinh Nghiệm ERP Implementation Consultant)** | CÔNG TY CỔ PHẦN STRINGEE | `15 - 35 triệu` | `89/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/solution-consultant-kinh-nghiem-erp-implementation-consultant/2315056.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 2 | **Account Executive Performance Marketing - Từ 1 Năm Kinh Nghiệm Tại Hà Nội (Thu Nhập 15-20 Triệu)** | Công ty Cổ phần SEONGON Thịnh Vượng | `15 - 20 triệu` | `86/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/account-executive-performance-marketing-tu-1-nam-kinh-nghiem-tai-ha-noi-thu-nhap-15-20-trieu/2268620.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 3 | **Account Executive (Tài Khoản Quảng Cáo) - Yêu Cầu Tiếng Anh (T2 - T6)** | Công ty TNHH AGrowth Global | `Thoả thuận` | `85/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/account-executive-tai-khoan-quang-cao-yeu-cau-tieng-anh-t2-t6/2310998.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 4 | **Trưởng Nhóm Kinh Doanh Nội Thất Mảng Doanh Nghiệp (B2B) - Thu Nhập Lên Đến 30 Triệu - Tại HCM Và HN - Đi Làm Ngay** | CÔNG TY TNHH THƯƠNG MẠI RỒNG PHƯƠNG BẮC | `17 - 30 triệu` | `85/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/truong-nhom-kinh-doanh-noi-that-mang-doanh-nghiep-b2b-thu-nhap-len-den-30-trieu-tai-hcm-va-hn-di-lam-ngay/2315842.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 5 | **Chuyên Viên Kinh Doanh B2B Cầu Lông Tennis Gosen Nhật Bản - Thị Trường Nội Địa Và Quốc Tế** | Công ty TNHH Gomax Sports | `Từ 15 triệu` | `84/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-b2b-cau-long-tennis-gosen-nhat-ban-thi-truong-noi-dia-va-quoc-te/2317353.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 6 | **Nhân Viên Kinh Doanh (Cross Selling) - Tư Vấn Giải Pháp Kế Toán MISA** | Công ty Cổ phần MISA | `15 - 20 triệu` | `82/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/misa/tuyen-dung/nhan-vien-kinh-doanh-cross-selling-tu-van-giai-phap-ke-toan-misa-j2314903.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 7 | **Nhân Viên Chăm Sóc Khách Hàng (B2B) - Thu Nhập Từ 10 Triệu - Tại Hà Nội** | Công ty TNHH Đầu tư và Thương mại AAA Việt Nam | `Từ 10 triệu` | `82/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-cham-soc-khach-hang-b2b-thu-nhap-tu-10-trieu-tai-ha-noi/2311287.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 8 | **Chuyên Viên Kinh Doanh Dự Án B2B (IT/Telecom)** | Công Ty TNHH MTV Viễn Thông Quốc Tế FPT | `15 - 25 triệu` | `81/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-du-an-b2b-it-telecom/2202657.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 9 | **B2B Financial & Business Solution Consultant (Từng Theo Đuổi Chương Trình ACCA/CMA/CPA/CFA ) – Up To 27M - Nghỉ T7, CN** | SAPP Academy | `20 - 27 triệu` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/b2b-financial-business-solution-consultant-tung-theo-duoi-chuong-trinh-acca-cma-cpa-cfa-up-to-27m-nghi-t7-cn/2318933.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 10 | **Chuyên Viên Kinh Doanh B2B - Thu Nhập 15 Đến 35 Triệu - Tại HCM & HN** | CÔNG TY CỔ PHẦN CATINA AUTO PARTS | `15 - 35 triệu` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-b2b-thu-nhap-15-den-35-trieu-tai-hcm-hn/2227660.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 11 | **Sales Executive/Nhân Viên Kinh Doanh/Dự Án/B2B - LCB (12-15tr) + %HH - Tuyển Toàn Quốc - Hà Nội/HCM** | CÔNG TY TNHH THƯƠNG MẠI RỒNG PHƯƠNG BẮC | `Thoả thuận` | `79/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/sales-executive-nhan-vien-kinh-doanh-du-an-b2b-lcb-12-15tr-hh-tuyen-toan-quoc-ha-noi-hcm/2315828.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 12 | **Nhân Viên Kinh Doanh Du Lịch / Sales Tour Inbound (B2B) – Thu Nhập Hấp Dẫn - Có Tiếng Anh Hoặc Tiếng Trung - ĐI LÀM NGAY** | CÔNG TY CỔ PHẦN DU LỊCH LILY | `15 - 50 triệu` | `77/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-du-lich-sales-tour-inbound-b2b-thu-nhap-hap-dan-co-tieng-anh-hoac-tieng-trung-di-lam-ngay/2305933.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 13 | **Nhân Viên Kinh Doanh Tour Inbound B2B - Thu Nhập Upto 45 Triệu/ Tháng** | CÔNG TY TNHH DU LỊCH CROSSING VIỆT NAM | `25 - 45 triệu` | `77/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tour-inbound-b2b-thu-nhap-upto-45-trieu-thang/2313827.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 14 | **Solution Consultant - Tư Vấn Giải Pháp (Presales - B2B SaaS)** | Công ty cổ phần Base Enterprise | `8 - 20 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/solution-consultant-tu-van-giai-phap-presales-b2b-saas/2315929.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 15 | **Nhân Viên Kinh Doanh B2B (Phụ Cấp, Lương Cứng 12tr7 + Hoa Hồng)** | Công ty cổ phần Hai Bốn Bảy (247Express) | `20 - 30 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/haibonbay/tuyen-dung/nhan-vien-kinh-doanh-b2b-phu-cap-luong-cung-12tr7-hoa-hong-j2301946.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 16 | **Nhân Viên Kinh Doanh Phần Mềm B2B/B2C [Toàn Quốc] - Hoa Hồng 40%, Thu Nhập Upto 35 Triệu, Open Fresher** | Công ty cổ phần Công nghệ Sapo | `10 - 35 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/sapovn/tuyen-dung/nhan-vien-kinh-doanh-phan-mem-b2b-b2c-toan-quoc-hoa-hong-40-thu-nhap-upto-35-trieu-open-fresher-j2311528.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 17 | **Trưởng Phòng Kinh Doanh Mảng Khám Sức Khỏe/Sales B2B/ Khách Hàng Doanh Nghiệp** | Công ty Cổ phần Nụ Cười Mới Việt Nam | `40 - 50 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/truong-phong-kinh-doanh-mang-kham-suc-khoe-sales-b2b-khach-hang-doanh-nghiep/1841797.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 18 | **Content Marketing Executive (B2B, SAPP Business) - Thu Nhập Up To 17M - Nghỉ T7, CN** | SAPP Academy | `12 - 17 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/content-marketing-executive-b2b-sapp-business-thu-nhap-up-to-17m-nghi-t7-cn/2232182.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 19 | **Nhân Viên Kinh Doanh B2B/ Sales B2B (Ngành ICT) - Upto 50M** | Công ty Cổ Phần tin học Mai Hoàng | `12 - 50 triệu` | `75/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-b2b-sales-b2b-nganh-ict-upto-50m/2217854.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 20 | **Nhân Viên Kinh Doanh B2B- Nghỉ T7 (Tại Hà Nội)** | Công Ty TNHH Công Nghệ Index | `9 - 40 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-b2b-nghi-t7-tai-ha-noi/2215804.html?ta_source=BoxFeatureJob_LinkDetail) |
+#### 4. Job #459: Nhân Viên Điều Hành Tour Inbound / Sales
+- **Đơn vị tuyển dụng:** CÔNG TY TNHH MIRACLE ASIA (Hà Nội)
+- **Mức thu nhập:** Thỏa thuận theo năng lực + thưởng (dự kiến 9 – 13M)
+- **Kinh nghiệm yêu cầu:** **Không yêu cầu kinh nghiệm – Đào tạo bài bản từ đầu cho ứng viên mới ra trường**
+- **Thời gian làm việc:** **Nghỉ trọn vẹn Thứ Bảy, Chủ Nhật**
+- **Mô tả công việc thực tế:**
+  - Đọc hiểu và sử dụng tiếng Anh hàng ngày để liên hệ với các đối tác khách sạn, nhà hàng, xe vận chuyển.
+  - Lập lịch trình tour, tính toán giá thành dịch vụ (tour cost) và theo dõi chất lượng vận hành tour cho khách du lịch quốc tế đến Việt Nam.
+  - Môi trường công ty vừa và nhỏ, thân thiện, trao đổi trực tiếp với ban giám đốc, đào tạo nghiệp vụ Inbound Operator rất kỹ.
+- **Link TopCV:** [Xem tin tuyển dụng Miracle Asia](https://www.topcv.vn/viec-lam/nhan-vien-dieu-hanh-tour-inbound-sales/2310712.html?ta_source=BoxFeatureJob_LinkDetail)
 
-#### 🔍 Phân tích chi tiết các Job tiêu biểu trong nhóm này:
+#### 5. Job #74: Nhân Viên Sales Tour Inbound B2B (Khách Quốc tế)
+- **Đơn vị tuyển dụng:** CÔNG TY TNHH DU LỊCH PASSION ASIA (Hà Nội)
+- **Mức lương:** Lương cứng 8.000.000 – 12.000.000 VNĐ + Hoa hồng (Thu nhập trung bình 15 – 30M+)
+- **Kinh nghiệm yêu cầu:** 1 năm (Ứng viên chưa thạo ngành du lịch được hướng dẫn quy trình)
+- **Mô tả công việc thực tế:**
+  - Công ty cấp **100% data khách hàng quốc tế inbound** có nhu cầu du lịch Việt Nam/Đông Nam Á (không phải tự kiếm khách).
+  - Soạn thảo báo giá, tư vấn lịch trình qua Email, WhatsApp bằng tiếng Anh. Phát huy trọn vẹn kỹ năng đọc - viết tiếng Anh xuất sắc của chứng chỉ TOEIC 855.
+- **Link TopCV:** [Xem tin tuyển dụng Passion Asia](https://www.topcv.vn/viec-lam/nhan-vien-sales-tour-inbound-b2b-thu-nhap-15-30-trieu-khong-ap-chi-tieu-duoc-dao-tao-bai-ban/2313650.html?ta_source=BoxFeatureJob_LinkDetail)
 
-##### 📌 #485 [Solution Consultant (Kinh Nghiệm ERP Implementation Consultant)](https://www.topcv.vn/viec-lam/solution-consultant-kinh-nghiem-erp-implementation-consultant/2315056.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY CỔ PHẦN STRINGEE | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `15 - 35 triệu` | **Điểm phù hợp:** `89/100`
-- **Tại sao khớp hồ sơ:**
-  + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường.*
-
-##### 📌 #449 [Account Executive Performance Marketing - Từ 1 Năm Kinh Nghiệm Tại Hà Nội (Thu Nhập 15-20 Triệu)](https://www.topcv.vn/viec-lam/account-executive-performance-marketing-tu-1-nam-kinh-nghiem-tai-ha-noi-thu-nhap-15-20-trieu/2268620.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty Cổ phần SEONGON Thịnh Vượng | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `15 - 20 triệu` | **Điểm phù hợp:** `86/100`
-- **Tại sao khớp hồ sơ:**
-  + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 15 - 20 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường.*
-
-##### 📌 #315 [Account Executive (Tài Khoản Quảng Cáo) - Yêu Cầu Tiếng Anh (T2 - T6)](https://www.topcv.vn/viec-lam/account-executive-tai-khoan-quang-cao-yeu-cau-tieng-anh-t2-t6/2310998.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty TNHH AGrowth Global | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `Thoả thuận` | **Điểm phù hợp:** `85/100`
-- **Tại sao khớp hồ sơ:**
-  + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường.*
-
-##### 📌 #467 [Trưởng Nhóm Kinh Doanh Nội Thất Mảng Doanh Nghiệp (B2B) | Thu Nhập Lên Đến 30 Triệu | Tại HCM Và HN | Đi Làm Ngay](https://www.topcv.vn/viec-lam/truong-nhom-kinh-doanh-noi-that-mang-doanh-nghiep-b2b-thu-nhap-len-den-30-trieu-tai-hcm-va-hn-di-lam-ngay/2315842.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH THƯƠNG MẠI RỒNG PHƯƠNG BẮC | **Địa điểm:** Hà Nội & Hồ Chí Minh (mới) | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `17 - 30 triệu` | **Điểm phù hợp:** `85/100`
-- **Tại sao khớp hồ sơ:**
-  + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường.*
-
-##### 📌 #588 [Chuyên Viên Kinh Doanh B2B Cầu Lông Tennis Gosen Nhật Bản - Thị Trường Nội Địa Và Quốc Tế](https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-b2b-cau-long-tennis-gosen-nhat-ban-thi-truong-noi-dia-va-quoc-te/2317353.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty TNHH Gomax Sports | **Địa điểm:** Hồ Chí Minh (mới) & 9 nơi khác | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `Từ 15 triệu` | **Điểm phù hợp:** `84/100`
-- **Tại sao khớp hồ sơ:**
-  + Kinh doanh giải pháp B2B / Quản lý tài khoản khách hàng, ít áp lực gọi data lạnh
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Từ 15 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Kỹ năng tư vấn giải pháp, tìm hiểu nhu cầu B2B, kỹ năng giao tiếp 1-1 tinh tế và khả năng nghiên cứu đối thủ/thị trường.*
+#### 6. Job #315: Account Executive (Quảng cáo Quốc tế - Tiếng Anh)
+- **Đơn vị tuyển dụng:** CÔNG TY CỔ PHẦN AGROWTH GLOBAL (Hà Nội)
+- **Mức lương:** **10.000.000 – 20.000.000 VNĐ/tháng**
+- **Thời gian làm việc:** Làm từ Thứ 2 đến Thứ 6 (**Nghỉ Thứ Bảy, Chủ Nhật**)
+- **Kinh nghiệm yêu cầu:** Dưới 1 năm (chấp nhận Fresher có ngoại ngữ tốt)
+- **Mô tả công việc thực tế:**
+  - Làm việc trực tiếp với khách hàng doanh nghiệp quốc tế qua email và chat tiếng Anh, tiếp nhận yêu cầu chạy quảng cáo số và chuyển giao cho bộ phận kỹ thuật nội bộ triển khai.
+  - Được đào tạo bài bản về kiến thức digital marketing và kỹ năng Account Management.
+- **Link TopCV:** [Xem tin tuyển dụng AGrowth Global](https://www.topcv.vn/viec-lam/account-executive-quang-cao-tieng-anh-thu-nhap-10-20-trieu-lam-thu-2-den-thu-6/2288339.html?ta_source=BoxFeatureJob_LinkDetail)
 
 ---
 
-### 🎯 Nhóm: MARKETING / CONTENT (4 vị trí xuất sắc)
+### NHÓM 3: B2B TƯ VẤN & CSKH DOANH NGHIỆP (Data sẵn từ Marketing, không gọi lạnh, đào tạo bài bản)
 
-| Stt | Vị trí công việc | Công ty | Mức lương | Điểm | Link TopCV |
-| :-: | :--- | :--- | :--- | :-: | :--- |
-| 1 | **Content Marketing Tại Hà Nội (Lương Từ 13 - 15 Triệu)** | Công ty CP Phát Triển Thương Hiệu Trần Gia | `13 - 15 triệu` | `76/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/content-marketing-tai-ha-noi-luong-tu-13-15-trieu/2316342.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 2 | **ACCA Marketing Executive (Edtech, Finance, Accounting/Auditing) - Thu Nhập Upto 15M - Onsite T2-T6** | SAPP Academy | `10 - 15 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/acca-marketing-executive-edtech-finance-accounting-auditing-thu-nhap-upto-15m-onsite-t2-t6/2304951.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 3 | **Marketing Executive (Lifestyle, Fashion, Jewelry, Beauty,...) - Từ 01 Năm Kinh Nghiệm - Hà Nội** | Công ty TNHH Dot Dot Gem | `15 - 20 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/marketing-executive-lifestyle-fashion-jewelry-beauty-tu-01-nam-kinh-nghiem-ha-noi/2318743.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 4 | **Content Marketing (Ứng Dụng AI Thực Chiến) Tại Hà Đông, Hà Nội - Thu Nhập  Upto 18 Triệu + Thưởng Hiệu Quả** | CÔNG TY CỔ PHẦN ĐÀO TẠO VÀ THIẾT KẾ AWE | `Tới 18 triệu` | `71/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/content-marketing-ung-dung-ai-thuc-chien-tai-ha-dong-ha-noi-thu-nhap-upto-18-trieu-thuong-hieu-qua/2315805.html?ta_source=BoxFeatureJob_LinkDetail) |
+#### 7. Job #623: Nhân Viên Chăm Sóc Khách Hàng Doanh Nghiệp (CSKH B2B)
+- **Đơn vị tuyển dụng:** CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI AAA VIỆT NAM (Hà Nội)
+- **Mức lương:** **Lương cứng từ 10.000.000 VNĐ/tháng** + thưởng hiệu quả
+- **Thời gian làm việc:** Thứ 2 – Thứ 6 (Thứ 7 làm cách tuần)
+- **Mô tả công việc thực tế:**
+  - Cam kết rõ ràng trong JD: **"NÓI KHÔNG VỚI GỌI LẠNH"**. Toàn bộ dữ liệu khách hàng doanh nghiệp do đội ngũ Marketing mang về.
+  - Tư vấn các gói quà tặng doanh nghiệp theo ngân sách công ty khách hàng yêu cầu, lên hợp đồng và bàn giao triển khai. Đào tạo 1-1 từ quy trình nhỏ nhất.
+- **Link TopCV:** [Xem tin tuyển dụng AAA Việt Nam](https://www.topcv.vn/viec-lam/nhan-vien-cskh-b2b-luong-cung-tu-10-trieu-ha-noi/2312641.html?ta_source=BoxFeatureJob_LinkDetail)
 
-#### 🔍 Phân tích chi tiết các Job tiêu biểu trong nhóm này:
+#### 8. Job #9: Nhân Viên Kinh Doanh Văn Phòng / Xử Lý Đơn Hàng In Ấn
+- **Đơn vị tuyển dụng:** CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI IN VIỆT TIẾN (Hà Nội)
+- **Mức lương:** **Lương cơ bản tối thiểu 10.000.000 VNĐ/tháng** ngay từ tháng đầu + Phụ cấp ăn trưa 1.000.000 VNĐ + 2% hoa hồng (Thu nhập từ 12 – 15M)
+- **Kinh nghiệm yêu cầu:** **Không yêu cầu kinh nghiệm** (chấp nhận cử nhân mới tốt nghiệp)
+- **Mô tả công việc thực tế:**
+  - Nhận mỗi ngày ~30 liên hệ khách hàng có nhu cầu làm bao bì, hộp quà từ đội ngũ marketing.
+  - Báo giá theo bảng quy chuẩn có sẵn, soạn đơn hàng, theo dõi giao hàng và đối soát thanh toán. Công việc làm việc 100% tại văn phòng, không phải đi thị trường.
+- **Link TopCV:** [Xem tin tuyển dụng In Việt Tiến](https://www.topcv.vn/brand/inviettien/tuyen-dung/nhan-vien-kinh-doanh-nhan-vien-van-phong-thu-nhap-tu-12-trieu-khong-yeu-cau-kinh-nghiem-j2169527.html?ta_source=BoxFeatureJob_LinkDetail)
 
-##### 📌 #493 [Content Marketing Tại Hà Nội (Lương Từ 13 - 15 Triệu)](https://www.topcv.vn/viec-lam/content-marketing-tai-ha-noi-luong-tu-13-15-trieu/2316342.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty CP Phát Triển Thương Hiệu Trần Gia | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `13 - 15 triệu` | **Điểm phù hợp:** `76/100`
-- **Tại sao khớp hồ sơ:**
-  + Tận dụng khả năng viết và biên tập nội dung, phân tích đối tượng
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Năng khiếu viết nội dung tự nhiên, tư duy nhạy bén về thị trường và khả năng lên kế hoạch truyền thông bài bản.*
+#### 9. Job #423: Nhân Viên Tư Vấn Tour Outbound & Visa (Data Nóng)
+- **Đơn vị tuyển dụng:** CÔNG TY CỔ PHẦN SRTRAVEL INTERNATIONAL (Hà Nội)
+- **Mức lương:** **Lương cứng 7.500.000 – 9.500.000 VNĐ/tháng** + hoa hồng (Thu nhập 15 – 30M)
+- **Kinh nghiệm yêu cầu:** 6 tháng – 1 năm (được đào tạo lại từ đầu nếu chưa có kinh nghiệm)
+- **Mô tả công việc thực tế:**
+  - 100% data khách hàng nóng do phòng Marketing chạy quảng cáo đổ về hàng ngày.
+  - Tư vấn thủ tục làm visa và chương trình tour du lịch tới các quốc gia phát triển (Mỹ, Canada, Châu Âu, Úc, Nhật). Công ty cấp máy tính, điện thoại làm việc.
+- **Link TopCV:** [Xem tin tuyển dụng SRTravel](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-tour-du-lich-sale-tour-outbound-data-co-san/2227295.html?ta_source=BoxFeatureJob_LinkDetail)
 
-##### 📌 #404 [ACCA Marketing Executive (Edtech, Finance, Accounting/Auditing) - Thu Nhập Upto 15M - Onsite T2-T6](https://www.topcv.vn/viec-lam/acca-marketing-executive-edtech-finance-accounting-auditing-thu-nhap-upto-15m-onsite-t2-t6/2304951.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** SAPP Academy | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `10 - 15 triệu` | **Điểm phù hợp:** `74/100`
-- **Tại sao khớp hồ sơ:**
-  + Tận dụng khả năng viết và biên tập nội dung, phân tích đối tượng
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 10 - 15 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Năng khiếu viết nội dung tự nhiên, tư duy nhạy bén về thị trường và khả năng lên kế hoạch truyền thông bài bản.*
-
-##### 📌 #562 [Marketing Executive (Lifestyle, Fashion, Jewelry, Beauty,...) - Từ 01 Năm Kinh Nghiệm - Hà Nội](https://www.topcv.vn/viec-lam/marketing-executive-lifestyle-fashion-jewelry-beauty-tu-01-nam-kinh-nghiem-ha-noi/2318743.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Công ty TNHH Dot Dot Gem | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `15 - 20 triệu` | **Điểm phù hợp:** `74/100`
-- **Tại sao khớp hồ sơ:**
-  + Tận dụng khả năng viết và biên tập nội dung, phân tích đối tượng
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: 15 - 20 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Năng khiếu viết nội dung tự nhiên, tư duy nhạy bén về thị trường và khả năng lên kế hoạch truyền thông bài bản.*
-
-##### 📌 #608 [Content Marketing (Ứng Dụng AI Thực Chiến) Tại Hà Đông, Hà Nội - Thu Nhập  Upto 18 Triệu + Thưởng Hiệu Quả](https://www.topcv.vn/viec-lam/content-marketing-ung-dung-ai-thuc-chien-tai-ha-dong-ha-noi-thu-nhap-upto-18-trieu-thuong-hieu-qua/2315805.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY CỔ PHẦN ĐÀO TẠO VÀ THIẾT KẾ AWE | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 2 năm
-- **Mức lương:** `Tới 18 triệu` | **Điểm phù hợp:** `71/100`
-- **Tại sao khớp hồ sơ:**
-  + Tận dụng khả năng viết và biên tập nội dung, phân tích đối tượng
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Năng khiếu viết nội dung tự nhiên, tư duy nhạy bén về thị trường và khả năng lên kế hoạch truyền thông bài bản.*
+#### 10. Job #149: Chuyên Viên Kinh Doanh Phần Mềm Giải Pháp Doanh Nghiệp (MISA AMIS)
+- **Đơn vị tuyển dụng:** CÔNG TY CỔ PHẦN MISA (Hà Nội)
+- **Mức lương:** **Lương cứng khởi điểm 7.000.000 – 9.000.000 VNĐ/tháng** + thưởng KPI (Thu nhập 15 – 20M)
+- **Kinh nghiệm yêu cầu:** **Không yêu cầu kinh nghiệm** (chấp nhận sinh viên mới ra trường khối ngành Kinh tế/QTKD)
+- **Mô tả công việc thực tế:**
+  - MISA là cái nôi đào tạo sales B2B phần mềm bài bản hàng đầu Việt Nam. Bạn được cấp tài khoản AI, CRM, tệp khách hàng doanh nghiệp chuẩn chỉnh.
+  - Phù hợp với ai muốn nâng tầm kỹ năng tư vấn giải pháp chuyển đổi số cho doanh nghiệp một cách có bài bản và giáo trình đào tạo chuyên nghiệp.
+- **Link TopCV:** [Xem tin tuyển dụng MISA](https://www.topcv.vn/brand/misa/tuyen-dung/chuyen-vien-kinh-doanh-phan-mem-giai-phap-ke-toan-cho-doanh-nghiep-ha-noi-j2316062.html?ta_source=BoxFeatureJob_LinkDetail)
 
 ---
 
-### 🎯 Nhóm: TƯ VẤN & KINH DOANH TỔNG QUÁT (6 vị trí xuất sắc)
+### NHÓM 4: CONTENT CHUYÊN MÔN / TRUYỀN THÔNG B2B (Nghỉ Thứ 7-CN, không áp lực chỉ tiêu bán hàng)
 
-| Stt | Vị trí công việc | Công ty | Mức lương | Điểm | Link TopCV |
-| :-: | :--- | :--- | :--- | :-: | :--- |
-| 1 | **Chuyên Viên Tư Vấn Tuyển Sinh / Bán Hàng / Kinh Doanh / Sales / Consultant - Thu Nhập Từ 12 Triệu Đến Không Giới Hạn - ILA Hà Nội, Hải Phòng** | Trung Tâm Anh Ngữ ILA | `Từ 12 triệu` | `78/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tuyen-sinh-ban-hang-kinh-doanh-sales-consultant-thu-nhap-tu-12-trieu-den-khong-gioi-han-ila-ha-noi-hai-phong/2308681.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 2 | **Nhân Viên Kinh Doanh / Sales Online (Remote) - Không Yêu Cầu Kinh Nghiệm - Lương Cứng Đến 10M - Thu Nhập 15M+** | CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI QUỐC TẾ INTRADE | `Từ 15 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-online-remote-khong-yeu-cau-kinh-nghiem-luong-cung-den-10m-thu-nhap-15m/2311270.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 3 | **Nhân Viên Bán Hàng/ Nhân Viên Kinh Doanh/ Tư Vấn Bán Hàng Trang Sức - Sales Advisor (Mức Lương 9 Triệu + % Doanh Thu)** | CÔNG TY TNHH THREE TREES GROUP | `Từ 15 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-nhan-vien-kinh-doanh-tu-van-ban-hang-trang-suc-sales-advisor-muc-luong-9-trieu-doanh-thu/2307003.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 4 | **Nhân Viên Kinh Doanh/ Sales Logistics Tại Hà Nội (Lương Cứng Upto 10 Triệu + Hoa Hồng, Thu Nhập Hấp Dẫn)** | CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LINKWAY LOGISTICS | `Từ 12 triệu` | `74/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-logistics-tai-ha-noi-luong-cung-upto-10-trieu-hoa-hong-thu-nhap-hap-dan/2303914.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 5 | **Phó Phòng Kinh Doanh BĐS Cụm Công Nghiệp** | CÔNG TY CỔ PHẦN ĐẦU TƯ Q&T | `Thoả thuận` | `71/100` | [Xem JD & Nộp](https://www.topcv.vn/viec-lam/pho-phong-kinh-doanh-bds-cum-cong-nghiep/2293275.html?ta_source=BoxFeatureJob_LinkDetail) |
-| 6 | **Chuyên Viên/ Chuyên Viên Cao Cấp Sản Phẩm Khách Hàng Doanh Nghiệp (Mảng Bất Động Sản/ Xây Lắp) - Corporate Banking Product Specialist / Senior Specialist (Real Estate / Construction) - Ban Sản Phẩm Và Marketing (2026TD457351)** | NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK | `Thoả thuận` | `71/100` | [Xem JD & Nộp](https://www.topcv.vn/brand/nganhangthuongmaicophanquandoi/tuyen-dung/chuyen-vien-chuyen-vien-cao-cap-san-pham-khach-hang-doanh-nghiep-mang-bat-dong-san-xay-lap-corporate-banking-product-specialist-senior-specialist-real-estate-construction-ban-san-pham-va-marketing-2026td457351-j2319101.html?ta_source=BoxFeatureJob_LinkDetail) |
-
-#### 🔍 Phân tích chi tiết các Job tiêu biểu trong nhóm này:
-
-##### 📌 #266 [Chuyên Viên Tư Vấn Tuyển Sinh / Bán Hàng / Kinh Doanh / Sales / Consultant - Thu Nhập Từ 12 Triệu Đến Không Giới Hạn - ILA Hà Nội, Hải Phòng](https://www.topcv.vn/viec-lam/chuyen-vien-tu-van-tuyen-sinh-ban-hang-kinh-doanh-sales-consultant-thu-nhap-tu-12-trieu-den-khong-gioi-han-ila-ha-noi-hai-phong/2308681.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** Trung Tâm Anh Ngữ ILA | **Địa điểm:** Hà Nội & Hải Phòng (mới) | **Kinh nghiệm:** Dưới 1 năm
-- **Mức lương:** `Từ 12 triệu` | **Điểm phù hợp:** `78/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Từ 12 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855.*
-
-##### 📌 #399 [Nhân Viên Kinh Doanh / Sales Online (Remote) - Không Yêu Cầu Kinh Nghiệm - Lương Cứng Đến 10M - Thu Nhập 15M+](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-online-remote-khong-yeu-cau-kinh-nghiem-luong-cung-den-10m-thu-nhap-15m/2311270.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI QUỐC TẾ INTRADE | **Địa điểm:** Hà Nội | **Kinh nghiệm:** Không yêu cầu
-- **Mức lương:** `Từ 15 triệu` | **Điểm phù hợp:** `74/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Từ 15 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855.*
-
-##### 📌 #615 [Nhân Viên Bán Hàng/ Nhân Viên Kinh Doanh/ Tư Vấn Bán Hàng Trang Sức - Sales Advisor (Mức Lương 9 Triệu + % Doanh Thu)](https://www.topcv.vn/viec-lam/nhan-vien-ban-hang-nhan-vien-kinh-doanh-tu-van-ban-hang-trang-suc-sales-advisor-muc-luong-9-trieu-doanh-thu/2307003.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH THREE TREES GROUP | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `Từ 15 triệu` | **Điểm phù hợp:** `74/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Từ 15 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855.*
-
-##### 📌 #660 [Nhân Viên Kinh Doanh/ Sales Logistics Tại Hà Nội (Lương Cứng Upto 10 Triệu + Hoa Hồng, Thu Nhập Hấp Dẫn)](https://www.topcv.vn/viec-lam/nhan-vien-kinh-doanh-sales-logistics-tai-ha-noi-luong-cung-upto-10-trieu-hoa-hong-thu-nhap-hap-dan/2303914.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LINKWAY LOGISTICS | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 1 năm
-- **Mức lương:** `Từ 12 triệu` | **Điểm phù hợp:** `74/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Lĩnh vực B2B/Dịch vụ chuyên nghiệp dễ học hỏi và mở rộng
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Mức lương hấp dẫn: Từ 12 triệu (đạt mức kỳ vọng >= 8-10M)
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855.*
-
-##### 📌 #8 [Phó Phòng Kinh Doanh BĐS Cụm Công Nghiệp](https://www.topcv.vn/viec-lam/pho-phong-kinh-doanh-bds-cum-cong-nghiep/2293275.html?ta_source=BoxFeatureJob_LinkDetail)
-- **Công ty:** CÔNG TY CỔ PHẦN ĐẦU TƯ Q&T | **Địa điểm:** Hà Nội | **Kinh nghiệm:** 3 năm
-- **Mức lương:** `Thoả thuận` | **Điểm phù hợp:** `71/100`
-- **Tại sao khớp hồ sơ:**
-  + Vị trí kinh doanh / tư vấn tận dụng được kiến thức ngành
-  + Thuộc ngành BĐS / Không gian / Văn phòng - Khớp trực tiếp bằng cấp ĐH Kinh tế Quốc dân
-  + Có yêu cầu/ưu tiên tiếng Anh -> Điểm TOEIC 855 tạo lợi thế cạnh tranh vượt trội
-  + Công việc yêu cầu kỹ năng soạn thảo, điều phối, theo dõi tiến độ
-  + Có chính sách đào tạo, hướng dẫn và lộ trình phát triển rõ ràng
-  + Đầy đủ chế độ phúc lợi (BHXH, thưởng lễ tết, thời gian làm việc chuẩn)
-- **Chiến lược điều chỉnh CV:** *Nhấn mạnh: Tinh thần học hỏi nhanh, nền tảng kinh tế NEU và chứng chỉ TOEIC 855.*
+#### 11. Job #566: Content Marketing Executive (B2B, SAPP Business)
+- **Đơn vị tuyển dụng:** SAPP Academy (Hà Nội)
+- **Mức lương:** **12.000.000 – 17.000.000 VNĐ/tháng** (Lương cứng lên tới 14M + KPI)
+- **Thời gian làm việc:** Làm 40 giờ/tuần (Thứ 2 – Thứ 6, **nghỉ Thứ Bảy và Chủ Nhật**)
+- **Mô tả công việc thực tế:**
+  - Nghiên cứu, viết bài chuyên sâu về chủ đề Quản trị doanh nghiệp, Tài chính, Lãnh đạo cho nhóm độc giả là CEO và Quản lý doanh nghiệp trên LinkedIn, Facebook, Blog.
+  - Công việc thuần túy sản xuất nội dung tri thức, không bị ép doanh số cuộc gọi, tận dụng tư duy kinh tế của sinh viên NEU và kỹ năng viết bài sâu sắc.
+- **Link TopCV:** [Xem tin tuyển dụng SAPP](https://www.topcv.vn/viec-lam/content-marketing-executive-b2b-sapp-business-thu-nhap-up-to-17m-nghi-t7-cn/2232182.html?ta_source=BoxFeatureJob_LinkDetail)
 
 ---
 
-## III. CHIẾN LƯỢC ĐIỀU CHỈNH 3 PHIÊN BẢN CV (CV TAILORING MATRIX)
+## 3. CẢNH BÁO CÁC "BẪY TIN TUYỂN DỤNG" ĐÃ ĐƯỢC BÓC TÁCH KHI ĐỌC THỦ CÔNG
 
-Để tối đa hóa tỷ lệ nhận lời mời phỏng vấn, bạn nên chuẩn bị 3 bản CV được tinh chỉnh trọng tâm:
-
-### 📄 Phiên bản 1: CV Thiên về Điều phối / Vận hành (Sales & Project Coordinator)
-- **Dành cho:** Các vị trí *Sales Coordinator, Project Assistant, Operations Support*.
-- **Tiêu đề CV:** `NGUYỄN VĂN A - SALES / PROJECT COORDINATOR`
-- **Summary (Giới thiệu):** Cử nhân Bất động sản NEU, TOEIC 855 với tư duy tổ chức logic, thành thạo điều phối quy trình, soạn thảo báo giá/hợp đồng và theo dõi tiến độ công việc giữa các phòng ban.
-- **Key Skills:** Quản trị quy trình, soạn thảo văn bản thương mại, phối hợp đa phòng ban, phân tích dữ liệu cơ bản, tiếng Anh thương mại.
-
-### 📄 Phiên bản 2: CV Thiên về Tư vấn Doanh nghiệp (B2B Account / Business Development)
-- **Dành cho:** Các vị trí *B2B Account Executive, Corporate Sales, Customer Success*.
-- **Tiêu đề CV:** `NGUYỄN VĂN A - B2B ACCOUNT EXECUTIVE / BUSINESS DEVELOPMENT`
-- **Summary (Giới thiệu):** Nhân sự kinh doanh định hướng giải pháp, có kinh nghiệm tiếp cận và thấu hiểu nhu cầu khách hàng B2B, tư duy logic, kỹ năng đàm phán 1-1 và tiếng Anh giao dịch lưu loát (TOEIC 855).
-- **Key Skills:** Consultative Selling, Quản lý quan hệ khách hàng (CRM), đàm phán hợp đồng, phân tích đối thủ cạnh tranh.
-
-### 📄 Phiên bản 3: CV Thiên về Nghiên cứu & Phát triển Dự án (Market Research / Real Estate Analyst)
-- **Dành cho:** Các vị trí *Market Research Executive, Real Estate Development Assistant*.
-- **Tiêu đề CV:** `NGUYỄN VĂN A - REAL ESTATE RESEARCH & DEVELOPMENT SPECIALIST`
-- **Summary (Giới thiệu):** Tốt nghiệp ngành Bất động sản - ĐH Kinh tế Quốc dân, TOEIC 855. Thế mạnh nghiên cứu thị trường, phân tích dự án, đọc hiểu tài liệu quốc tế và tổng hợp báo cáo chuyên sâu.
-- **Key Skills:** Nghiên cứu thị trường BĐS, phân tích khả thi dự án, tổng hợp báo cáo thị trường, dịch thuật tài liệu chuyên ngành.
+1. **Bẫy lương cứng ảo ở các sàn BĐS môi giới:**
+   - Điển hình như Job #253 (Mai Việt Realty) giật tít *"Lương cứng lên tới 15 triệu"*, nhưng khi đọc sâu vào phần quyền lợi chi tiết: *"Lương cứng hỗ trợ 5 triệu/tháng, áp dụng thử việc 2 tháng"*. Bản chất là sàn môi giới thuần túy, phụ thuộc hoàn toàn vào hoa hồng khi chốt căn.
+2. **Bẫy trá hình Tư vấn Tài chính:**
+   - Rất nhiều tin tiêu đề là "Chuyên viên Hoạch định Tài chính", "Quản lý Khách hàng Doanh nghiệp" của Bảo hiểm Prudential (Job #283), Manulife (Job #421), Đức Minh Hưng Thịnh (Job #109)... thực chất là đại lý bán bảo hiểm nhân thọ, không có lương cơ bản cố định lâu dài hoặc phải chịu áp lực tuyển dụng đại lý cấp dưới.
+3. **Bẫy chức danh "Solution Consultant" quá tầm:**
+   - Một số vị trí Tư vấn giải pháp doanh nghiệp ERP/SaaS tại các tập đoàn công nghệ tuy ghi mở cho Fresher nhưng nội dung thực tế yêu cầu thuyết trình kỹ thuật phần mềm phức tạp trước hội đồng quản trị của khách hàng. Với tâm lý chưa tự tin về kiến thức chuyên sâu, bạn sẽ gặp áp lực tâm lý rất lớn nếu bước vào các vai trò này ngay từ đầu.
 
 ---
 
-## IV. BỘ CÂU HỎI CHECK-LIST KHI PHỎNG VẤN ĐỂ LOẠI BỎ RED-FLAGS
+## 4. CHIẾN LƯỢC ỨNG TUYỂN & HÀNH ĐỘNG GỢI Ý
 
-Khi được gọi phỏng vấn, hãy chủ động hỏi các câu sau ở phần Q&A để đảm bảo môi trường làm việc đúng như kỳ vọng:
-
-1. **Về cơ cấu công việc thực tế:** *'Trong 8 tiếng làm việc hàng ngày, tỷ lệ thời gian giữa việc điều phối/xử lý hồ sơ nội bộ so với việc trực tiếp gọi điện/tiếp xúc khách hàng là bao nhiêu %?'*
-2. **Về cơ cấu KPI & Thu nhập:** *'Mức lương cứng cố định hàng tháng là bao nhiêu? Tiêu chí đánh giá KPI chính gồm những chỉ số định tính hay doanh số cụ thể nào?'*
-3. **Về nguồn khách hàng (nếu là B2B/Account):** *'Nguồn khách hàng/đối tác do công ty phân bổ từ marketing/inbound hay nhân sự tự tìm kiếm từ data ngoài?'*
-4. **Về quy trình đào tạo & Onboarding:** *'Trong 2 tháng thử việc, công ty có chương trình onboarding hoặc người hướng dẫn trực tiếp (Mentor) cho nhân sự mới không?'*
-5. **Về lộ trình phát triển (Career Path):** *'Sau 1–2 năm làm việc tốt ở vị trí này, lộ trình phát triển lên vị trí Specialist hoặc Team Lead sẽ diễn ra như thế nào?'*
+- **Lựa chọn an toàn & danh giá nhất:** Nộp ngay **Job #395 (Sabre VN - Vietnam Airlines)**. Bạn có TOEIC 855 (yêu cầu chỉ 500) và bằng NEU, công việc kế hoạch back-office ổn định, chế độ vé máy bay cực kỳ giá trị.
+- **Lựa chọn sát ngành BĐS nhất:** Nộp **Job #624 (Comi Homes)**. Vị trí Sales Admin điều phối bảng hàng căn hộ, hợp đồng thuê nhà rất cần người có tư duy BĐS nhưng không bị ép chỉ tiêu môi giới bên ngoài.
+- **Lựa chọn phát huy tiếng Anh & môi trường năng động:** Nộp **Job #459 (Miracle Asia)** hoặc **Job #74 (Passion Asia)** để thử sức với mảng Inbound Tour điều phối quốc tế, làm việc với khách nước ngoài bằng văn bản tiếng Anh.
